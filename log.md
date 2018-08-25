@@ -1,30 +1,50 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: August 22, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:**  
+- Created Users controller and User model
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+I'm creating a web app to test clear cache function of a web browser.  
+Something like this: https://enigmatic-anchorage-96854.herokuapp.com/
 
-**Link to work:** [Calculator App](http://www.example.com)
+It intentionally caches the image for testing purpose.  
+I'm thinking this app can be used to test whether a browser's clear cache function is working or not.  
+(My current job is a tester and I have been testing a web browser app recently. That's why I got interested in building this.)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+I created the page above by modifying the toy_app sample in Rails Tutorial, so it has many unnecessary functions/codes.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Now I'm trying to develop it while going through the tutorial from Chapter 3, but this time trying to understand "which code does what" more clearly, and customize it to suit my purpose.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 2: August 23, 2018
+
+**Today's Progress:**  
+- Enable SSL
+- Add settings to use Puma on prod (heroku) environment
+- Create show/create user actions
 
 
-### Day 1: June 27, Monday
+**Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 3: August 24, 2018
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress:**  
+- Create login/logout function
+
+**Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)
+
+
+### Day 4: August 25, 2018
+
+**Today's Progress:**  
+- Create edit/delete user functions
+- Create functions related to admin user
+
+**Thoughts:**  
+I decided to join #100DaysOfCode challenge!  
+I'm a 三日坊主 person, but it is now Day 4 and Github contributions graph is showing 8 Days streak (thanks to timezone difference) I started feeling like I can do it.
+
+**Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)
