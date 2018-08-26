@@ -48,3 +48,15 @@ I decided to join #100DaysOfCode challenge!
 I'm a 三日坊主 person, but it is now Day 4 and Github contributions graph is showing 8 Days streak (thanks to timezone difference) I started feeling like I can do it.
 
 **Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)
+
+### Day 5: August 26, 2018
+
+**Today's Progress:**  
+- Implement Micropost
+- Disable User & Login features
+
+**Thoughts:**  
+I realized that I might not need the User & Login features for my purpose... So I disabled them.
+I might remove unnecessary codes later, but I learned a lot from implementing them. Deeper understanding helped me implementing Micropost feature.
+
+**Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)
