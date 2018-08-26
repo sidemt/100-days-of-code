@@ -60,3 +60,17 @@ I realized that I might not need the User & Login features for my purpose... So 
 I might remove unnecessary codes later, but I learned a lot from implementing them. Deeper understanding helped me implementing Micropost feature.
 
 **Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)
+
+### Day 6: August 27, 2018
+
+**Today's Progress:**  
+-Image upload function
+-Force cache the uploaded image so that the user needs to hard refresh the browser to see the new image
+
+**Thoughts:**  
+I completed implementing all the features I wanted.  
+I will do some more layout work tomorrow, and then I will make it public.
+
+It is very inspiring to see everyone tweeting using #100DaysOfCode . 自分がチャレンジに参加するまではそんなに感じなかったのですが、急に身近にというか、当事者の気持ちになるものですね。
+
+**Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)  
