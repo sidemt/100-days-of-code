@@ -59,7 +59,7 @@ I'm a 三日坊主 person, but it is now Day 4 and Github contributions graph is
 I realized that I might not need the User & Login features for my purpose... So I disabled them.
 I might remove unnecessary codes later, but I learned a lot from implementing them. Deeper understanding helped me implementing Micropost feature.
 
-**Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)
+**Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)I know it is a simple app, and it is not perfect at all, but I believe I have made a progress by making my work public.
 
 ### Day 6: August 27, 2018
 
@@ -74,3 +74,16 @@ I will do some more layout work tomorrow, and then I will make it public.
 It is very inspiring to see everyone tweeting using #100DaysOfCode . 自分がチャレンジに参加するまではそんなに感じなかったのですが、急に身近にというか、当事者の気持ちになるものですね。
 
 **Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)  
+
+### Day 7: August 28, 2018
+
+**Today's Progress:**  
+-Completed the development and deployed it to Heroku
+
+**Thoughts:**  
+Deployed my first product in this challenge!  
+I know it is a simple app, and it is not perfect at all, but I believe I have made progress by making my work public.  
+
+**Links to work:**  
+[Clear Cache Test App](https://clear-cache-test.herokuapp.com/)  
+[GitHub Repo](https://github.com/sidemt/image_cache_test)  
