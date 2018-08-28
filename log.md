@@ -18,6 +18,7 @@ Now I'm trying to develop it while going through the tutorial from Chapter 3, bu
 
 **Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)
 
+
 ### Day 2: August 23, 2018
 
 **Today's Progress:**  
@@ -49,6 +50,7 @@ I'm a 三日坊主 person, but it is now Day 4 and Github contributions graph is
 
 **Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)
 
+
 ### Day 5: August 26, 2018
 
 **Today's Progress:**  
@@ -60,6 +62,7 @@ I realized that I might not need the User & Login features for my purpose... So 
 I might remove unnecessary codes later, but I learned a lot from implementing them. Deeper understanding helped me implementing Micropost feature.
 
 **Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)I know it is a simple app, and it is not perfect at all, but I believe I have made a progress by making my work public.
+
 
 ### Day 6: August 27, 2018
 
@@ -75,6 +78,7 @@ It is very inspiring to see everyone tweeting using #100DaysOfCode . 自分が�
 
 **Link to work:** [Image Cache Test App](https://github.com/sidemt/image_cache_test)  
 
+
 ### Day 7: August 28, 2018
 
 **Today's Progress:**  
@@ -87,3 +91,19 @@ I know it is a simple app, and it is not perfect at all, but I believe I have ma
 **Links to work:**  
 [Clear Cache Test App](https://clear-cache-test.herokuapp.com/)  
 [GitHub Repo](https://github.com/sidemt/image_cache_test)  
+
+
+### Day 8: August 29, 2018
+
+**Today's Progress:**  
+-Submitted a pull request to 100-days-of-code repo
+
+**Thoughts:**  
+I'm not sure if working on Markdown can be counted as coding, but I wanted to experience the workflow of submitting a pull request to forked repo.  
+Now I have gained some confidence and understanding in it.
+
+Reference on how to submit a pull request to forked repo (Japanese):  
+[GitHubを使った開発フロー(初心者用) - Qiita](https://qiita.com/naogify/items/a5d1dccc89c5e96abed6)
+
+**Link to work:**  
+[Improve Japanese translation by sidemt · Pull Request #193 · kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code/pull/193)
