@@ -67,8 +67,8 @@ I might remove unnecessary codes later, but I learned a lot from implementing th
 ### Day 6: August 27, 2018
 
 **Today's Progress:**  
--Image upload function
--Force cache the uploaded image so that the user needs to hard refresh the browser to see the new image
+- Image upload function
+- Force cache the uploaded image so that the user needs to hard refresh the browser to see the new image
 
 **Thoughts:**  
 I completed implementing all the features I wanted.  
@@ -82,7 +82,7 @@ It is very inspiring to see everyone tweeting using #100DaysOfCode . 自分が�
 ### Day 7: August 28, 2018
 
 **Today's Progress:**  
--Completed the development and deployed it to Heroku
+- Completed the development and deployed it to Heroku
 
 **Thoughts:**  
 Deployed my first product in this challenge!  
@@ -96,7 +96,7 @@ I know it is a simple app, and it is not perfect at all, but I believe I have ma
 ### Day 8: August 29, 2018
 
 **Today's Progress:**  
--Submitted a pull request to 100-days-of-code repo
+- Submitted a pull request to 100-days-of-code repo
 
 **Thoughts:**  
 I'm not sure if working on Markdown can be counted as coding, but I wanted to experience the workflow of submitting a pull request to forked repo.  
@@ -107,3 +107,17 @@ Reference on how to submit a pull request to forked repo (Japanese):
 
 **Link to work:**  
 [Improve Japanese translation by sidemt · Pull Request #193 · kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code/pull/193)
+
+
+### Day 9: August 30, 2018
+
+**Today's Progress:**  
+- Found out where the width is set
+- Installed some packages to customize Sublime Text
+
+**Thoughts:**  
+I didn't have much progress today.  
+I'm trying to improve the mobile view of my blog. The template is complicated and I spend long time to understand how it is working.
+
+**Link to work:**  
+[GitHub](https://github.com/sidemt/blogger-template/tree/responsive-design)
