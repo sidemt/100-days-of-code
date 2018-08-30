@@ -121,3 +121,23 @@ I'm trying to improve the mobile view of my blog. The template is complicated an
 
 **Link to work:**  
 [GitHub](https://github.com/sidemt/blogger-template/tree/responsive-design)
+
+
+### Day 10: August 31, 2018
+
+**Today's Progress:**  
+- Learned about viewport
+- Made the grid work
+
+**Thoughts:**  
+It is now Day 10!  
+Blogger のテンプレートのカスタマイズは思った以上に難しくて、やめた方がいいのかなという気がしてます。  
+メニューの配置とかは変えられたのですが、謎のpadding, margin, widthがあるのか、変はみ出してしまうところがどこから指定されてるのかわからず…。
+
+他に作りたいものも出て来たので、明日以降どうするかちょっと考えます。
+
+ただ、media query を指定して、PCブラウザのサイズを変更したときは効くのに開発者ツールや実機でスマホ画面にすると効かないときは、viewportの設定が必要ということがわかったのは収穫でした。  
+Bloggerのテンプレートだと、if文で、Blogger側の「モバイルテーマを表示する」設定がOFFになっているとViewportがレスポンシブ用に設定されないようになってるっぽかったです。
+
+**Link to work:**  
+[GitHub](https://github.com/sidemt/blogger-template/tree/responsive-design)
