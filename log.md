@@ -141,3 +141,19 @@ Bloggerのテンプレートだと、if文で、Blogger側の「モバイルテ�
 
 **Link to work:**  
 [GitHub](https://github.com/sidemt/blogger-template/tree/responsive-design)
+
+
+### Day 11: September 1, 2018
+
+**Today's Progress:**  
+- Feasibility study on next project
+
+**Thoughts:**  
+I leave the blogger template as for now, and work on next project.  
+I want to create a web app which searches for #100DaysOfCode tweets of users who are on the same day as you.  
+So I did some research on how to use Twitter API. It looks like using Ruby on Rails is good for this app too.  
+
+ちょっと不眠の波が来ていて2,3時間睡眠が続いているのですが、逆に言うとそのおかげで時間がとれているというか…。
+
+**Link to work:**  
+[Blog](https://ontheneworbit.blogspot.com/2018/09/twitter-api.html)
