@@ -157,3 +157,18 @@ So I did some research on how to use Twitter API. It looks like using Ruby on Ra
 
 **Link to work:**  
 [Blog](https://ontheneworbit.blogspot.com/2018/09/twitter-api.html)
+
+
+### Day 12: September 2, 2018
+
+**Today's Progress:**  
+- Research on Twitter API
+- Tried 'twurl' and 'twitter' gem
+
+**Thoughts:**  
+Still doing a research on Twitter API, not having much progress.  
+It seems the embedding search timeline is disabled recently. I'm not sure if I can find a way to implement a function similar to it.  
+Found a gem called 'twitter', and it seems I can get Tweet id of the tweets I want to display on my web page. I need to find out how I can generate embedded tweet from the Tweet id.
+
+**Link to work:**  
+[Blog](https://ontheneworbit.blogspot.com/2018/09/twitter-api-2.html)
