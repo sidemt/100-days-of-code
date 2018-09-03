@@ -172,3 +172,21 @@ Found a gem called 'twitter', and it seems I can get Tweet id of the tweets I wa
 
 **Link to work:**  
 [Blog](https://ontheneworbit.blogspot.com/2018/09/twitter-api-2.html)
+
+
+### Day 13: September 3, 2018
+
+**Today's Progress:**  
+- Research on Twitter API
+- Found out how to:
+  - Search tweets using twitter gem
+  - Generate a snippet to embed a tweet using oEmbed API
+  - Call oEmbed API using rest-client gem
+  - Display embedded tweet using widgets.js
+
+**Thoughts:**  
+I think I found a way out. 昨日まで行き詰まってたところが乗り越えられた気がします。  
+明日から少しずつ実際に組み立て始められたらいいな。
+
+**Link to work:**  
+[Blog](https://ontheneworbit.blogspot.com/2018/09/twitter-api-3.html)
