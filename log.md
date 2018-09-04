@@ -190,3 +190,17 @@ I think I found a way out. 昨日まで行き詰まってたところが乗り�
 
 **Link to work:**  
 [Blog](https://ontheneworbit.blogspot.com/2018/09/twitter-api-3.html)
+
+
+### Day 14: September 4, 2018
+
+**Today's Progress:**  
+- Found out how to:
+  - Display html code retrieved from JSON (.html_safe) 
+  - Store secret keys in environment variables
+
+**Thoughts:**  
+I think now I have figured out everything I needed, so I want to start building actual app tomorrow.
+
+**Link to work:**  
+[Gist](https://gist.github.com/sidemt/abec0436d7bc03f54bd9334f6eae9209)
