@@ -204,3 +204,19 @@ I think now I have figured out everything I needed, so I want to start building 
 
 **Link to work:**  
 [Gist](https://gist.github.com/sidemt/abec0436d7bc03f54bd9334f6eae9209)
+
+
+### Day 15: September 5, 2018
+
+**Today's Progress:**  
+- Applied for a developer account of Twitter (And accepted successfully)
+- Setup for a new rails project and started creating the first static pages
+- Installed RuboCop
+- Installed Guard
+
+**Thoughts:**  
+The application process for a developer account of Twitter was way easier than I thought. (審査とかあるのかと思ってましたが、おそらく入力項目が増えただけで、アカウント自体はすぐ作れました。個人アカウントだからかもしれませんが。)  
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+[Study With Me live stream](https://youtu.be/G8OMWuY3kK8)
