@@ -220,3 +220,16 @@ The application process for a developer account of Twitter was way easier than I
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
 [Study With Me live stream](https://youtu.be/G8OMWuY3kK8)
+
+
+### Day 16: September 6, 2018
+
+**Today's Progress:**  
+- Search and get tweet IDs
+
+**Thoughts:**  
+I'm still confused where to write codes under model/controller/helper.  
+This page ([Plain Old Ruby Objects]{https://www.learnhowtoprogram.com/rails/building-an-e-commerce-site-with-ajax-and-apis/plain-old-ruby-objects)) is helping me a lot, but I'm afraid I have some misunderstanding.
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
