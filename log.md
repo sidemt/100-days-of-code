@@ -229,7 +229,7 @@ The application process for a developer account of Twitter was way easier than I
 
 **Thoughts:**  
 I'm still confused where to write codes under model/controller/helper.  
-This page ([Plain Old Ruby Objects]{https://www.learnhowtoprogram.com/rails/building-an-e-commerce-site-with-ajax-and-apis/plain-old-ruby-objects)) is helping me a lot, but I'm afraid I have some misunderstanding.
+This page ([Plain Old Ruby Objects](https://www.learnhowtoprogram.com/rails/building-an-e-commerce-site-with-ajax-and-apis/plain-old-ruby-objects)) is helping me a lot, but I'm afraid I have some misunderstanding.
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
