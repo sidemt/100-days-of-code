@@ -233,3 +233,15 @@ This page ([Plain Old Ruby Objects](https://www.learnhowtoprogram.com/rails/buil
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 17: September 7, 2018
+
+**Today's Progress:**  
+- Embed tweets of search results
+
+**Thoughts:**  
+I always forget how to get a value from a form... struggling with it now.
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
