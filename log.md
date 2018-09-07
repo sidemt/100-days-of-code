@@ -245,3 +245,15 @@ I always forget how to get a value from a form... struggling with it now.
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 18: September 8, 2018
+
+**Today's Progress:**  
+- Add a function to allow the user to select the Day
+
+**Thoughts:**  
+I tried to use Ajax for the form but it didn't work with the Twitter widgets.js. So I created a separate page to show the search results.
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
