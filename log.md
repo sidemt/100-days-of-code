@@ -269,3 +269,23 @@ I'm trying to think mobile-first, but it's still difficult for me.
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 20: September 10, 2018
+
+**Today's Progress:**  
+- Set environment variables on Heroku
+- Deploy to Heroku as phase 1
+- Start inplementing User feature
+  - Implement Twitter sign up/sign in using Devise
+
+**Thoughts:**  
+It's Day 20!! I didn't think I could do this.
+
+I implemented Twitter sign up with help of the page below. This is the most simple and easy to understand guide for me.  
+[認証機能(Devise/Twitter) | Rails Training](https://sadah.github.io/rails-training/ja/003_devise.html)
+
+こちらのページを参考に1年前（初めてRailsを触った頃）にもTwitter認証の実装をやったのですが、今回他のサイトを参考にしてうまくいかなくて、ブックマークしてなかったものでどこだったっけと探し回ってなんとか見つけられたおかげで今回もうまくいきました！
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
