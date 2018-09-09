@@ -257,3 +257,15 @@ I tried to use Ajax for the form but it didn't work with the Twitter widgets.js.
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+### Day 19: September 9, 2018
+
+**Today's Progress:**  
+- Apply Bootstrap
+- Adjust page design and layout
+
+**Thoughts:**  
+I'm trying to think mobile-first, but it's still difficult for me.
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
