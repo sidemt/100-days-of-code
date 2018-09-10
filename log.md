@@ -289,3 +289,17 @@ I implemented Twitter sign up with help of the page below. This is the most simp
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 21: September 10, 2018
+
+**Today's Progress:**  
+- Add "day" column to User model
+- Resolve an error in tests
+
+**Thoughts:**  
+I got an error saying "ActiveRecord::RecordNotUnique:" in all tests after I created User model using Devise. The default fixture file was causing it.
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+[Blog](https://ontheneworbit.blogspot.com/2018/09/devise-activerecordrecordnotunique.html#links)
