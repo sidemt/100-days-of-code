@@ -301,5 +301,18 @@ I implemented Twitter sign up with help of the page below. This is the most simp
 I got an error saying "ActiveRecord::RecordNotUnique:" in all tests after I created User model using Devise. The default fixture file was causing it.
 
 **Link to work:**  
-[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)  
 [Blog](https://ontheneworbit.blogspot.com/2018/09/devise-activerecordrecordnotunique.html#links)
+
+
+### Day 22: September 11, 2018
+
+**Today's Progress:**  
+- Research how to write tests for the user created with Devise
+- Write login/logout tests
+
+**Thoughts:**  
+There are a lot of questions coming up!
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
