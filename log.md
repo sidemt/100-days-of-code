@@ -316,3 +316,17 @@ There are a lot of questions coming up!
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 23: September 11, 2018
+
+**Today's Progress:**  
+- Created "My Page" for logged in users
+- Wrote tests for it
+
+**Thoughts:**  
+Rails Tutorialで見たな、という内容と、実装中の内容に合わせて自分が書いたテストと、RuboCopの設定とか、これまでちまちまと集めて来た知識がうまいことはまってつながった感覚があった。  
+before_action の追加を忘れかけてたのをうまいことテストで検出できた。
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
