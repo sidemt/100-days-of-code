@@ -291,7 +291,7 @@ I implemented Twitter sign up with help of the page below. This is the most simp
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
 
 
-### Day 21: September 10, 2018
+### Day 21: September 11, 2018
 
 **Today's Progress:**  
 - Add "day" column to User model
@@ -305,7 +305,7 @@ I got an error saying "ActiveRecord::RecordNotUnique:" in all tests after I crea
 [Blog](https://ontheneworbit.blogspot.com/2018/09/devise-activerecordrecordnotunique.html#links)
 
 
-### Day 22: September 11, 2018
+### Day 22: September 12, 2018
 
 **Today's Progress:**  
 - Research how to write tests for the user created with Devise
@@ -318,7 +318,7 @@ There are a lot of questions coming up!
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
 
 
-### Day 23: September 11, 2018
+### Day 23: September 13, 2018
 
 **Today's Progress:**  
 - Created "My Page" for logged in users
@@ -327,6 +327,18 @@ There are a lot of questions coming up!
 **Thoughts:**  
 Rails Tutorialで見たな、という内容と、実装中の内容に合わせて自分が書いたテストと、RuboCopの設定とか、これまでちまちまと集めて来た知識がうまいことはまってつながった感覚があった。  
 before_action の追加を忘れかけてたのをうまいことテストで検出できた。
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 24: September 14, 2018
+
+**Today's Progress:**  
+- Created a form to change the "Day" of the user
+
+**Thoughts:**  
+Form がまだ苦手だ…。POSTする先とかの理解がふんわりしているせいだとは思うんですが。
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
