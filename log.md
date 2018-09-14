@@ -342,3 +342,17 @@ Form がまだ苦手だ…。POSTする先とかの理解がふんわりして�
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 25: September 15, 2018
+
+**Today's Progress:**  
+- Added tests for user model
+- Created a button to count up by 1 day
+
+**Thoughts:**  
+Now it's Day 25!! Quarter of 100!  
+I took long time to figure out how to implement this button to count up by 1. hidden_field solved it.
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
