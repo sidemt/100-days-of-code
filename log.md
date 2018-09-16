@@ -374,3 +374,19 @@ Deviseのログイン時の挙動を自動テストでテストしたいけれ�
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 27: September 17, 2018
+
+**Today's Progress:** 
+- Layout Improvements
+  - Remove unnecessary spacing
+  - Refactor the code to display the flash message
+- Another project (create a landing page sample)
+
+**Thoughts:**  
+いつものRailsのプロジェクトは1時間くらいやって、ちょっと他に作りたいものがでてきてそちらに時間を割いてたり。  
+そっちに気を取られて未完成で放り出したりしないようにだけ気を付けねば！
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
