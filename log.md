@@ -356,3 +356,21 @@ I took long time to figure out how to implement this button to count up by 1. hi
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 26: September 16, 2018
+
+**Today's Progress:** 
+- Layout Improvements
+  - Nav bar
+  - Added progress bar
+- Changed to redirect to my page after sign in
+- Some research on how to test sign in behavior of devise
+
+**Thoughts:**  
+Deviseのログイン時の挙動を自動テストでテストしたいけれど、方法がわからない。  
+調べてばかりで前に進まない気配がしたので、一旦置いておく。  
+本家のREADMEをちゃんと読んでなかったばっかりにひっかかってたところがあったので（Rails5で書き方が変わっていた）気を付けたい！  
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
