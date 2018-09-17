@@ -390,3 +390,30 @@ Deviseのログイン時の挙動を自動テストでテストしたいけれ�
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 28: September 18, 2018
+
+**Today's Progress:** 
+- Added some codes to handle the cases of Day0, 100, nil
+- Added a celebration message for Day100
+- Added a guide message for first time users
+- Disabled unused action and devise modules
+- Added validation to day value
+- Done all these things while writing tests for them
+- Deployed to Heroku as phase 2
+
+
+**Thoughts:**  
+Deployed, with features to login and track the Day. Check out if you are interested!  
+[On The Day](https://on-the-day.herokuapp.com/)
+
+There are still many things I want to improve, but I want to do another project too. So I decided to deploy it as phase 2 now.  
+In the future I want to implement a function to tweet from the app, and as you tweet it counts up the Day automatically.  
+
+And also it has a bug I cannot find how to solve it yet, I filed a issue for it not to forget it.  
+[Sometimes embedded tweets are not rendered using widgetjs · Issue #6 · sidemt/on_the_day](https://github.com/sidemt/on_the_day/issues/6)
+
+**Link to work:**  
+[On The Day](https://on-the-day.herokuapp.com/)
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
