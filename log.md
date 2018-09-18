@@ -417,3 +417,16 @@ And also it has a bug I cannot find how to solve it yet, I filed a issue for it 
 **Link to work:**  
 [On The Day](https://on-the-day.herokuapp.com/)
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 29: September 19, 2018
+
+**Today's Progress:** 
+- Created a simple landing page with Bootstrap carousel
+
+**Thoughts:**  
+Created a simple page. Back to basics.  
+I always think "justify-content" and "align-items" of flexbox in wrong way and get stuck...  
+
+**Link to work:**  
+[Tweet (with screenshot of the page)](https://twitter.com/siideemt/status/1042168457012248576)
