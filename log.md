@@ -430,3 +430,17 @@ I always think "justify-content" and "align-items" of flexbox in wrong way and g
 
 **Link to work:**  
 [Tweet (with screenshot of the page)](https://twitter.com/siideemt/status/1042168457012248576)
+
+
+### Day 30: September 20, 2018
+
+**Today's Progress:** 
+- Created another landing page with Bootstrap grid system
+
+**Thoughts:**  
+Now it's Day 30!!  
+I'm trying to create some variations of simple landing pages.  
+I think I understand the Grid system better than before.
+
+**Link to work:**  
+[Tweet (with screenshot of the page)](https://twitter.com/siideemt/status/1042550852232208384)
