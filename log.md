@@ -444,3 +444,16 @@ I think I understand the Grid system better than before.
 
 **Link to work:**  
 [Tweet (with screenshot of the page)](https://twitter.com/siideemt/status/1042550852232208384)
+
+
+### Day 31: September 21, 2018
+
+**Today's Progress:** 
+- Created another landing page with Bootstrap grid system, using order class
+
+**Thoughts:**  
+Now I have created 3 different design in 3 days! (Although they are all simple and easy ones)  
+And an interesting thing is happening:) Excited!
+
+**Link to work:**  
+[Tweet (with screenshot of the page)](https://twitter.com/siideemt/status/1042893503657762817)
