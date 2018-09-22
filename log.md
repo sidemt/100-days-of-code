@@ -457,3 +457,19 @@ And an interesting thing is happening:) Excited!
 
 **Link to work:**  
 [Tweet (with screenshot of the page)](https://twitter.com/siideemt/status/1042893503657762817)
+
+
+### Day 32: September 22, 2018
+
+**Today's Progress:** 
+- Added a Tweet button to My Page  
+- Made it include the current day in the tweet text  
+
+**Thoughts:**  
+Added a Tweet button. It was easy (thanks to Twitter Publish)  
+Now I want to automatically count up the Day when the user clicks Tweet button, likely it requires JS.
+
+あとこの3日間で作ったLPをUnitStockに出品してみました。どなたか興味を持ってくださると嬉しい…
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
