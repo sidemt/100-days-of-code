@@ -473,3 +473,16 @@ Now I want to automatically count up the Day when the user clicks Tweet button, 
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 33: September 23, 2018
+
+**Today's Progress:** 
+- Changed the tweet text to include next day number  
+- Implemented auto count up of Day when tweet button is clicked
+
+**Thoughts:**  
+I found out I don't need to use strong parameters when I don't use users' free input for updating the data.  
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
