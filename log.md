@@ -486,3 +486,20 @@ I found out I don't need to use strong parameters when I don't use users' free i
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 34: September 24, 2018
+
+**Today's Progress:** 
+- Made some improvements in layout
+- Fixed the calculation of the next day when the user is on Day 100
+- Refactored to use the calculation function everywhere
+- Refactored to use mixin in scss
+- Refactored to remove duplicated loading of twitter's widget.js
+
+**Thoughts:**  
+Tomorrow I will try to fix the issue of sometimes it does not render the embedded tweets properly. Then I might push it to Heroku.  
+I want to change the design of the progress bar too.
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
