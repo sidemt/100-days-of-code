@@ -503,3 +503,18 @@ I want to change the design of the progress bar too.
 
 **Link to work:**  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 35: September 25, 2018
+
+**Today's Progress:** 
+- Trying to fix a bug, but no yet solved
+
+**Thoughts:**  
+Embedded tweets are not rendered with widget.js when opening the page for the first time.  
+I think the issue is similar to this:  
+[javascript - How to make Twitter widget.js run properly on first page load using `link_to` with Turbolinks on Rails 5 - Stack Overflow](https://stackoverflow.com/questions/43213044/how-to-make-twitter-widget-js-run-properly-on-first-page-load-using-link-to-wi)  
+But I cannot figure out how I can apply this code to my code.
+
+**Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
