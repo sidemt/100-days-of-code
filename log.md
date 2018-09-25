@@ -415,7 +415,7 @@ And also it has a bug I cannot find how to solve it yet, I filed a issue for it 
 [Sometimes embedded tweets are not rendered using widgetjs · Issue #6 · sidemt/on_the_day](https://github.com/sidemt/on_the_day/issues/6)
 
 **Link to work:**  
-[On The Day](https://on-the-day.herokuapp.com/)
+[On The Day](https://on-the-day.herokuapp.com/)  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
 
 
@@ -517,4 +517,18 @@ I think the issue is similar to this:
 But I cannot figure out how I can apply this code to my code.
 
 **Link to work:**  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 36: September 26, 2018
+
+**Today's Progress:** 
+- Fixed the issue of widget.js not loading  
+- Started improving progress bar design
+
+**Thoughts:**  
+I fixed the bug (not sure if it is the best way to fix, but at least it's working) and deployed my app to Heroku. Phase 3.
+
+**Link to work:**  
+[On The Day](https://on-the-day.herokuapp.com/)  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
