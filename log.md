@@ -532,3 +532,44 @@ I fixed the bug (not sure if it is the best way to fix, but at least it's workin
 **Link to work:**  
 [On The Day](https://on-the-day.herokuapp.com/)  
 [GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 36: September 26, 2018
+
+**Today's Progress:** 
+- Fixed the issue of widget.js not loading  
+- Started improving progress bar design
+
+**Thoughts:**  
+I fixed the bug (not sure if it is the best way to fix, but at least it's working) and deployed my app to Heroku. Phase 3.
+
+**Link to work:**  
+[On The Day](https://on-the-day.herokuapp.com/)  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 37: September 27, 2018
+
+**Today's Progress:** 
+- Changed progress bar design
+
+**Thoughts:**  
+Changed the progress bar to progress "dots". I think now I have everything I wanted in this app, so I'm moving on to something different. When I learn new things I will come back and make improvements again.
+
+**Link to work:**  
+[On The Day](https://on-the-day.herokuapp.com/)  
+[GitHub: sidemt/on_the_day](https://github.com/sidemt/on_the_day)
+
+
+### Day 38: September 28, 2018
+
+**Today's Progress:** 
+- Set up CodePen to use React
+
+**Thoughts:**  
+It took me an hour to configure CodePen for React! The URL added from the search box didn't work for me, instead, I needed to use the URLs from http://reactjs.org Getting Started docs.  
+Now I start freeCodeCamp's Markdown Previewer challenge!
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/XxWrvK)  
+[GitHub: sidemt/markdown-previewer](https://github.com/sidemt/markdown-previewer)
