@@ -587,3 +587,18 @@ I had absolutely no idea how to do this until a few days ago. It's amazing. It's
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/XxWrvK)  
 [GitHub: sidemt/markdown-previewer](https://github.com/sidemt/markdown-previewer)
+
+
+### Day 40: September 30, 2018
+
+**Today's Progress:** 
+- Markdown Previewer: Improve the design
+- Publish it on GitHub pages
+
+**Thoughts:**  
+It's now Day40 and I finished up a #freeCodeCamp project, Markdown Previewer!  
+I never thought I could keep going with this challenge for 40 days in a row. I never thought I could build a Markdown previewer either.
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/XxWrvK)  
+[GitHub: sidemt/markdown-previewer](https://github.com/sidemt/markdown-previewer)
