@@ -573,3 +573,17 @@ Now I start freeCodeCamp's Markdown Previewer challenge!
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/XxWrvK)  
 [GitHub: sidemt/markdown-previewer](https://github.com/sidemt/markdown-previewer)
+
+
+### Day 39: September 29, 2018
+
+**Today's Progress:** 
+- Implement basic functionalities of Markdown Previewer
+
+**Thoughts:**  
+I made all required test suites pass. I will improve the design from tomorrow.  
+I had absolutely no idea how to do this until a few days ago. It's amazing. It's working. I wrote this code. It's so much fun to learn new things!!
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/XxWrvK)  
+[GitHub: sidemt/markdown-previewer](https://github.com/sidemt/markdown-previewer)
