@@ -602,3 +602,21 @@ I never thought I could keep going with this challenge for 40 days in a row. I n
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/XxWrvK)  
 [GitHub: sidemt/markdown-previewer](https://github.com/sidemt/markdown-previewer)
+
+
+### Day 41: October 1, 2018
+
+**Today's Progress:** 
+- freeCodeCamp's Drum Machine project
+  - research for how to use HTML5 audio tag
+  - research for how to make it play a sound on click
+  - research for how to make it play a sound on key press
+
+**Thoughts:**  
+I had never used the audio tag of HTML5. When I learned HTML for the first time 15 years ago I think it was an era of HTML3 transitioning to 4. It feels like a new feature. lol  
+I didn't know that http://cloudinary.com can manage not only images but also audio files! It can convert audio files to different format too. すごい。  
+とりあえず必要そうなものをかき集めたのでここから組み立てていく。
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/LgVEdg)  
+[GitHub: sidemt/drum-machine](https://github.com/sidemt/drum-machine)
