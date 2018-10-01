@@ -620,3 +620,19 @@ I didn't know that http://cloudinary.com can manage not only images but also aud
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/LgVEdg)  
 [GitHub: sidemt/drum-machine](https://github.com/sidemt/drum-machine)
+
+
+### Day 42: October 2, 2018
+
+**Today's Progress:** 
+- freeCodeCamp's Drum Machine project
+  - Made each key play a different sound
+  - Made it show a different text on each key press
+
+**Thoughts:**  
+I'm copy&pasting almost the same codes 9 times... for each key. There must be a smarter way to do it.  
+It also plays the sound on click, but it does not update the text. I'm now writing the onclick event as an attribute in an HTML tag. I think I need to do it in React.
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/LgVEdg)  
+[GitHub: sidemt/drum-machine](https://github.com/sidemt/drum-machine)
