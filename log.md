@@ -636,3 +636,20 @@ It also plays the sound on click, but it does not update the text. I'm now writi
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/LgVEdg)  
 [GitHub: sidemt/drum-machine](https://github.com/sidemt/drum-machine)
+
+
+### Day 43: October 3, 2018
+
+**Today's Progress:**  
+- freeCodeCamp's Drum Machine project
+  - Reduced unnecessary repetition in the code
+  - Implemented all functions to make the test suite pass
+
+**Thoughts:**  
+Looking back one of the freeCodeCamp lessons, [React: Pass a Callback as Props | Learn freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/react/pass-a-callback-as-props), I think I made some improvements by breaking down the code into components and passing common values as properties.  
+Now I have all the tests pass, so I will start working on the visual design tomorrow.
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/LgVEdg)  
+[GitHub: sidemt/drum-machine](https://github.com/sidemt/drum-machine)
+
