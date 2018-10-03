@@ -653,3 +653,16 @@ Now I have all the tests pass, so I will start working on the visual design tomo
 [CodePen](https://codepen.io/sidemt/pen/LgVEdg)  
 [GitHub: sidemt/drum-machine](https://github.com/sidemt/drum-machine)
 
+
+### Day 44: October 4, 2018
+
+**Today's Progress:**  
+- freeCodeCamp's Drum Machine project
+  - Implement visual design
+
+**Thoughts:**  
+Japanese flavored Drum Machine. Done! -> [Drum Machine](https://codepen.io/sidemt/full/LgVEdg/)  
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/LgVEdg)  
+[GitHub: sidemt/drum-machine](https://github.com/sidemt/drum-machine)
