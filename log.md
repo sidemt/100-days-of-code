@@ -666,3 +666,22 @@ Japanese flavored Drum Machine. Done! -> [Drum Machine](https://codepen.io/sidem
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/LgVEdg)  
 [GitHub: sidemt/drum-machine](https://github.com/sidemt/drum-machine)
+
+
+### Day 45: October 5, 2018
+
+**Today's Progress:**  
+- freeCodeCamp's JavaScript Calculator project
+  - Created a component to render a key with given id and value (text)
+  - Created a component to render a number key
+  - Render number keys 0-9 using a for loop
+
+**Thoughts:**  
+Started building JavaScript Calculator for #freeCodeCamp project.  
+Found out how to use a for loop in React. And what I've learned in the previous project is helping me so far!
+
+For loop in React: [Reactでループする - Qiita](https://qiita.com/mo4_9/items/b88cea7dc68d682b45b6)
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/xyOZwx)  
+[GitHub: sidemt/js-calculator](https://github.com/sidemt/js-calculator)
