@@ -685,3 +685,17 @@ For loop in React: [Reactでループする - Qiita](https://qiita.com/mo4_9/ite
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/xyOZwx)  
 [GitHub: sidemt/js-calculator](https://github.com/sidemt/js-calculator)
+
+
+### Day 46: October 6, 2018
+
+**Today's Progress:**  
+- freeCodeCamp's JavaScript Calculator project
+  - Assigned click events to number keys, AC, decimal dot
+
+**Thoughts:**  
+I'm having fun going through JavaScript docs looking for a way to handle the user input (String?) as calculation. Learning built in functions I didn't know.  
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/xyOZwx)  
+[GitHub: sidemt/js-calculator](https://github.com/sidemt/js-calculator)
