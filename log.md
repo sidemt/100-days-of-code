@@ -699,3 +699,31 @@ I'm having fun going through JavaScript docs looking for a way to handle the use
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/xyOZwx)  
 [GitHub: sidemt/js-calculator](https://github.com/sidemt/js-calculator)
+
+
+### Day 47: October 7, 2018
+
+**Today's Progress:**  
+- freeCodeCamp's JavaScript Calculator project
+  - Implement input of mathematical operators
+  - Implement execution of calculation
+
+**Thoughts:**  
+I used Function object which is said to work similar to `eval()` according to [eval() - JavaScript | MDN](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/eval) 
+Like below:  
+```
+  calculate(str){
+    if (str != undefined) {
+      var f = new Function('return ' + str + ';');
+      return f();
+    } else {
+      return 0; 
+    }
+  }
+```
+
+Still not sure when to use React and when Redux. To understand it, I'm trying to use Redux now.
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/xyOZwx)  
+[GitHub: sidemt/js-calculator](https://github.com/sidemt/js-calculator)
