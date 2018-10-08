@@ -727,3 +727,17 @@ Still not sure when to use React and when Redux. To understand it, I'm trying to
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/xyOZwx)  
 [GitHub: sidemt/js-calculator](https://github.com/sidemt/js-calculator)
+
+
+### Day 48 October 8, 2018
+
+**Today's Progress:**  
+- freeCodeCamp's JavaScript Calculator project
+  - Add state `calculation` which stores numbers and operators as an array
+
+**Thoughts:**  
+結局Reduxの理解が不足していて上手く使えず、Reactオンリーに戻ってみました。  
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/xyOZwx)  
+[GitHub: sidemt/js-calculator](https://github.com/sidemt/js-calculator)
