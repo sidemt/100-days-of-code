@@ -741,3 +741,21 @@ Still not sure when to use React and when Redux. To understand it, I'm trying to
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/xyOZwx)  
 [GitHub: sidemt/js-calculator](https://github.com/sidemt/js-calculator)
+
+
+### Day 49 October 9, 2018
+
+**Today's Progress:**  
+- freeCodeCamp's Pomodoro Clock project
+  - Created needed elements with specified ids
+  - Created component to display remaining time in mm:ss format
+  - Created a function to decrement break time
+
+**Thoughts:**  
+I completed JavaScript Calculator challenge yesterday! [JavaScript Calculator](https://codepen.io/sidemt/full/xyOZwx/)  
+So I started working on Pomodoro Clock. The last challenge to get Front End Libraries Certification.  
+I think the count down function can be implemented with using something similar to this technique: [How TO - JavaScript Countdown Timer](https://www.w3schools.com/howto/howto_js_countdown.asp)  
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/LgxNay)  
+[GitHub: sidemt/pomodoro-clock](https://github.com/sidemt/pomodoro-clock)
