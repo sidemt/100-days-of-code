@@ -759,3 +759,27 @@ I think the count down function can be implemented with using something similar 
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/LgxNay)  
 [GitHub: sidemt/pomodoro-clock](https://github.com/sidemt/pomodoro-clock)
+
+
+### Day 50 October 10, 2018
+
+**Today's Progress:**  
+- freeCodeCamp's Pomodoro Clock project
+  - Created a function to increment break length, decrement/increment session length
+  - Started developing a function to countdown
+
+**Thoughts:**  
+It's Day50!! I'm proud that I have come here without missing a day. I didn't think I could do it.
+
+Today I started developing the countdown function using setInterval and clearInterval.
+
+- 4ヶ月前の私が書いたブログに助けられました。→ [On the New Orbit: コールバック関数を自分のために解説 (JavaScript)](https://ontheneworbit.blogspot.com/2018/06/javascript.html#more)  
+これ↓
+>引数として渡すときは、関数名の後に()を付けない。渡した時点で今すぐ実行するのではなく、関数の定義をhigher-order functionに渡すだけなので。
+
+- clearIntervalで止まらない→ setInterval()の戻り値 `intervalID` をグローバルな変数で受け取っておいて、clearIntervalに渡してあげることで解決。  
+参考: [window.clearInterval - Web API インターフェイス | MDN](https://developer.mozilla.org/ja/docs/Web/API/WindowTimers/clearInterval)
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/LgxNay)  
+[GitHub: sidemt/pomodoro-clock](https://github.com/sidemt/pomodoro-clock)
