@@ -799,3 +799,41 @@ Now all tests passed! I will start the visual improvement tomorrow.
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/LgxNay)  
 [GitHub: sidemt/pomodoro-clock](https://github.com/sidemt/pomodoro-clock)
+
+
+### Day 52 October 12, 2018
+
+**Today's Progress:**  
+- freeCodeCamp's Pomodoro Clock project
+  - Corrected usage of setState
+  - Started working on visual design improvement
+
+**Thoughts:**  
+I read this article [How to become a pro with React setState() in 10 minutes](https://medium.freecodecamp.org/get-pro-with-react-setstate-in-10-minutes-d38251d1c781) and corrected my code.
+
+I was doing this:
+```
+    let currentLength = this.state.breakLength;
+    let newLength = currentLength - 1;
+    if (newLength > 0) {
+      this.setState({
+        breakLength: newLength
+      })
+    }
+```
+
+But according to the article this seems better:
+```
+    if (this.state.breakLength > 1) {
+      this.setState((state) => ({
+        breakLength: state.breakLength - 1
+      }))
+      this.updateTimeLeft(BREAK);
+    }
+```
+
+I think I need some revision on React and basic JavaScript to understand React properly.
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/LgxNay)  
+[GitHub: sidemt/pomodoro-clock](https://github.com/sidemt/pomodoro-clock)
