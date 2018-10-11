@@ -783,3 +783,19 @@ Today I started developing the countdown function using setInterval and clearInt
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/LgxNay)  
 [GitHub: sidemt/pomodoro-clock](https://github.com/sidemt/pomodoro-clock)
+
+
+### Day 51 October 11, 2018
+
+**Today's Progress:**  
+- freeCodeCamp's Pomodoro Clock project
+  - Created a function to toggle Break/Session
+  - Added beep sound to play when the timer reaches 0
+
+**Thoughts:**  
+At first, I tried `.fastSeek(0)` to rewind the audio element, but I had to use `.currentTime = 0` instead. Due to browser compatibility?  
+Now all tests passed! I will start the visual improvement tomorrow.  
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/LgxNay)  
+[GitHub: sidemt/pomodoro-clock](https://github.com/sidemt/pomodoro-clock)
