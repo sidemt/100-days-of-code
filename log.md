@@ -837,3 +837,21 @@ I think I need some revision on React and basic JavaScript to understand React p
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/LgxNay)  
 [GitHub: sidemt/pomodoro-clock](https://github.com/sidemt/pomodoro-clock)
+
+
+### Day 53 October 13, 2018
+
+**Today's Progress:**  
+- freeCodeCamp's Pomodoro Clock project
+  - Implement responsive layout
+  - Apply Google Fonts
+  - Change background color according to Session/Break state
+  - Changed the variable isRunning to one of the state properties
+
+**Thoughts:**  
+Finished the Pomodoro Clock project and earned the [Front End Libraries Certification](https://www.freecodecamp.org/certification/sidemt/front-end-libraries)!!  
+
+**Link to work:**  
+[CodePen](https://codepen.io/sidemt/pen/LgxNay)  
+[GitHub: sidemt/pomodoro-clock](https://github.com/sidemt/pomodoro-clock)
+[GitHub Pages: Pomodoro Clock](https://sidemt.github.io/pomodoro-clock/)
