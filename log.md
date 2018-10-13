@@ -853,5 +853,20 @@ Finished the Pomodoro Clock project and earned the [Front End Libraries Certific
 
 **Link to work:**  
 [CodePen](https://codepen.io/sidemt/pen/LgxNay)  
-[GitHub: sidemt/pomodoro-clock](https://github.com/sidemt/pomodoro-clock)
+[GitHub: sidemt/pomodoro-clock](https://github.com/sidemt/pomodoro-clock)  
 [GitHub Pages: Pomodoro Clock](https://sidemt.github.io/pomodoro-clock/)
+
+
+### Day 54 October 14, 2018
+
+**Today's Progress:**  
+- Planning to create a portfolio page
+- Some research on web hosting services and domain registrar
+- Prepared my works on GitHub pages
+
+**Thoughts:**  
+日本のポピュラーなサービスを使った経験をしておいた方が良いと思っていて（そのサービスが良いにしても悪いにしても）、最初さくらインターネットで検討してたんですが（先日の北海道地震での対応が見事だったとの話も記憶に新しいので）ライトプランが年間一括しかないようなのでロリポップから始めてみようかな…？という方に傾いてます。  
+実は独自ドメインは使ったことがないのでトライしたい。
+
+**Link to work:**  
+[GitHub Repo](https://github.com/sidemt/charonworks)  
