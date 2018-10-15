@@ -870,3 +870,19 @@ Finished the Pomodoro Clock project and earned the [Front End Libraries Certific
 
 **Link to work:**  
 [GitHub Repo](https://github.com/sidemt/charonworks)  
+
+
+### Day 55 October 15, 2018
+
+**Today's Progress:**  
+- Signed up for [https://lolipop.jp/](https://lolipop.jp/)
+- Uploaded a temporary top page
+- Started building the portfolio
+
+**Thoughts:**  
+FCCの最初の課題がポートフォリオで、まだ何も書くことないのにそんな無茶な…と思ったんですけれど（笑）  
+いまだ自分がやったことに自信がないからか、何を書いたら良いのやら…となってしまう。やっぱり。  
+それを自信をもってアピールできる力も大事だな…
+
+**Link to work:**  
+[GitHub Repo](https://github.com/sidemt/charonworks)  
