@@ -886,3 +886,18 @@ FCCの最初の課題がポートフォリオで、まだ何も書くことな�
 
 **Link to work:**  
 [GitHub Repo](https://github.com/sidemt/charonworks)  
+
+
+### Day 56 October 16, 2018
+
+**Today's Progress:**  
+- 各プロジェクトにどんな情報を書くか、どう書けば見やすいか検討
+
+**Thoughts:**  
+Bootstrapのcardでまとめてみている。
+
+各情報としては、身の回りの友人に劇団とか劇場・ライブハウスとかに繋がりある人が多いので、そういう劇団とかライブハウスとかのホームページとか作らせてもらえないかしらとぼんやり思っていて。  
+まずはその層に見せるつもりで作ろう。と思っています。  
+
+**Link to work:**  
+[GitHub Repo](https://github.com/sidemt/charonworks)  
