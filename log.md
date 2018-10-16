@@ -901,3 +901,17 @@ Bootstrapのcardでまとめてみている。
 
 **Link to work:**  
 [GitHub Repo](https://github.com/sidemt/charonworks)  
+
+
+### Day 57 October 17, 2018
+
+**Today's Progress:**  
+- 各プロジェクトの情報を一通り記載
+
+**Thoughts:**  
+コードじゃなくて文章をどう書くかで詰まっています（笑）  
+freeCodeCamp序盤で作った天気アプリとかWikipedia検索とかの方が、後の方で作ったポモドーロタイマーとかMarkdownエディタとかよりもプログラミング畑の人じゃない人にはうけそうだと気づいてページの上の方に持って来てみたり。  
+どうしても裏で難しいことをやってるものを見せたくなるんですけど、今私がアピールしたい層に見せるにはそれじゃないんだと思う。たぶん。  
+
+**Link to work:**  
+[GitHub Repo](https://github.com/sidemt/charonworks)  
