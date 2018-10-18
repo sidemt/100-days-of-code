@@ -915,3 +915,21 @@ freeCodeCamp序盤で作った天気アプリとかWikipedia検索とかの方�
 
 **Link to work:**  
 [GitHub Repo](https://github.com/sidemt/charonworks)  
+
+
+### Day 58 October 18, 2018
+
+**Today's Progress:**  
+- Implemented grid layout
+- Added nav bar
+
+**Thoughts:**  
+Bootstrapのgridを使うたびに「今回初めて正しい使い方ができた気がする」と思ってるような…。毎回「あ！なるほどこうやって使うのか！」って思ってるというか。  
+
+今回「ああなるほど」って思ったところのメモ  
+- `col-4` を1列に3個並べようとするとき、 `margin` を追加してしまうと1列から溢れる
+- `row` で囲った中にたくさんの(最終的に複数行にまたがって表示されてほしい) `col` を入れて、それぞれに `class="col-lg-4 col-md-6 col-sm-12"` と付けると、lgの時は1行に3つ、mdのときは2つ、smのときは1つずつ表示される。
+
+
+**Link to work:**  
+[GitHub Repo](https://github.com/sidemt/charonworks)  
