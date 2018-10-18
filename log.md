@@ -933,3 +933,24 @@ Bootstrapのgridを使うたびに「今回初めて正しい使い方ができ�
 
 **Link to work:**  
 [GitHub Repo](https://github.com/sidemt/charonworks)  
+
+
+### Day 59 October 19, 2018
+
+**Today's Progress:**  
+- Added a mail form
+- Registered for a custom domain name
+
+**Thoughts:**  
+メールフォームを追加。
+
+PHPのコードはフリーで配布されてる物を使わせていただきましたが（とにかくまずは実現出来る手段があることを試しておきたかったので。）  
+そこにBootstrapのスタイルを適用したり、HTML5のrequired属性を追加したり。
+
+使わせていただいたのはこちら  
+[【MailForm01】PHPメールフォーム多機能版（著作権リンク無し）フリー（無料）｜PHP工房](https://www.php-factory.net/mail/01.php)
+
+ドメイン名も取得して、設定の反映待ち。
+
+**Link to work:**  
+[GitHub Repo](https://github.com/sidemt/charonworks)  
