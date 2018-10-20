@@ -954,3 +954,22 @@ PHPのコードはフリーで配布されてる物を使わせていただき�
 
 **Link to work:**  
 [GitHub Repo](https://github.com/sidemt/charonworks)  
+
+
+### Day 60 October 20, 2018
+
+**Today's Progress:**  
+- Visual design improvements
+
+**Thoughts:**  
+よしできた！と思って自分のiPhoneでも確認してみたら、Safariで全然うまく表示できてないことが発覚（苦笑） Browser compatibility...
+
+```
+background-color: rgba(0,0,0, 0.4);
+```
+
+みたいに指定した不透明度が全く読み込まれず、表示されてない状態。
+
+**Link to work:**  
+[GitHub Repo](https://github.com/sidemt/charonworks)  
+
