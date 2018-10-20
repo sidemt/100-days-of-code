@@ -973,3 +973,16 @@ background-color: rgba(0,0,0, 0.4);
 **Link to work:**  
 [GitHub Repo](https://github.com/sidemt/charonworks)  
 
+
+### Day 61 October 21, 2018
+
+**Today's Progress:**  
+- Fixed bugs of browser imcompatibility
+
+**Thoughts:**  
+ポートフォリオ的なページ作りました。  
+昨日悩んでいたのは、iPhoneで見ると `rgb(165, 42, 0, 0.2);` みたいにopacityを指定した色が表示されない事だったんですが、単純に書き方が間違ってたっぽくて `rgba(165, 42, 0, 0.2);` とすると表示されました。
+
+**Link to work:**  
+[GitHub Repo](https://github.com/sidemt/charonworks)  
+[http://www.charonworks.com](http://www.charonworks.com)  
