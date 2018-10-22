@@ -986,3 +986,19 @@ background-color: rgba(0,0,0, 0.4);
 **Link to work:**  
 [GitHub Repo](https://github.com/sidemt/charonworks)  
 [http://www.charonworks.com](http://www.charonworks.com)  
+
+
+### Day 62 October 22, 2018
+
+**Today's Progress:**  
+- Set up freeCodeCamp locally
+
+**Thoughts:**  
+Because I wanted to try working on a real-world project, I set up the development environment for freeCodeCamp. I'm getting some errors on install. Work in progress.
+
+
+[Set up freeCodeCamp locally](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/how-to-setup-freecodecamp-locally.md)
+
+**Link to work:**  
+None
+
