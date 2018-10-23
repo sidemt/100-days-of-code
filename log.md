@@ -1002,3 +1002,20 @@ Because I wanted to try working on a real-world project, I set up the developmen
 **Link to work:**  
 None
 
+
+### Day 63 October 23, 2018
+
+**Today's Progress:**  
+- Set up freeCodeCamp locally (Work in progress)
+
+**Thoughts:**  
+Still trying to set up freeCodeCamp locally, but haven't been successful. I'm searching with the error messages and looking into the documentation again but cannot find the solution yet.
+
+`npm rum bootstrap` is failing with an error saying "Failed at the commitizen@2.10.1 postinstall script." (I'm not sure if this is the main part)  
+
+The installation has been unsuccessfull but it's good to know that a real-world project can involve such a large number of node_modules!  
+
+[Set up freeCodeCamp locally](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/how-to-setup-freecodecamp-locally.md)
+
+**Link to work:**  
+None
