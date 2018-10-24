@@ -1019,3 +1019,18 @@ The installation has been unsuccessfull but it's good to know that a real-world 
 
 **Link to work:**  
 None
+
+
+### Day 64 October 24, 2018
+
+**Today's Progress:**  
+- Set up freeCodeCamp locally (Work in progress)
+  - Solved an error and completed `npm run bootstrap`
+
+**Thoughts:**  
+I solved the error in `npm run bootstrap` but now I'm facing another error in the next step `npm run seed`. The same error has been filed as an issue in freeCodeCamp's GitHub repo recently so I might wait a few days to see how it goes. I will work on something else while waiting for it.  
+
+[Set up freeCodeCamp locally](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/how-to-setup-freecodecamp-locally.md)
+
+**Link to work:**  
+[Commented on GitHub issue](https://github.com/freeCodeCamp/freeCodeCamp/issues/18459#issuecomment-432359734)
