@@ -1034,3 +1034,18 @@ I solved the error in `npm run bootstrap` but now I'm facing another error in th
 
 **Link to work:**  
 [Commented on GitHub issue](https://github.com/freeCodeCamp/freeCodeCamp/issues/18459#issuecomment-432359734)
+
+
+### Day 65 October 25, 2018
+
+**Today's Progress:**  
+- Resolved a conflict on the PR I submitted before
+- Set up WSL to use as a development environment for Ruby on Rails
+
+**Thoughts:**  
+[My PR](https://github.com/kallaway/100-days-of-code/pull/193) (it is a small correction in translation) was having a conflict so I solved it. Hoping it to be merged.  
+
+Also, started setting up the dev environment for dev.to . I set up WSL (Windows Subsystem for Linux) to use rbenv. (rbenv does not work on Windows... at least for me.) I hope it goes well.
+
+**Link to work:**  
+[Improve Japanese translation by sidemt · Pull Request #193 · kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code/pull/193)  
