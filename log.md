@@ -1049,3 +1049,15 @@ Also, started setting up the dev environment for dev.to . I set up WSL (Windows 
 
 **Link to work:**  
 [Improve Japanese translation by sidemt · Pull Request #193 · kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code/pull/193)  
+
+
+### Day 66 October 26, 2018
+
+**Today's Progress:**  
+- Completed the setup of freeCodeCamp dev environment
+
+**Thoughts:**  
+Finally, I have freeCodeCamp running on my local! There is no first timers welcome issue now but I'm hoping to contribute someday.
+
+**Link to work:**  
+None
