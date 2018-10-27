@@ -1061,3 +1061,15 @@ Finally, I have freeCodeCamp running on my local! There is no first timers welco
 
 **Link to work:**  
 None
+
+
+### Day 67 October 27, 2018
+
+**Today's Progress:**  
+- freeCodeCamp's Timestamp Microservice project
+
+**Thoughts:**  
+まだよくわからないけどできた感がすごくて狐につままれたようってまさにこういう気持ちだなと…（笑）
+
+**Link to work:**  
+[Timestamp Microservice](https://topaz-cereal.glitch.me/)  
