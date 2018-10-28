@@ -1073,3 +1073,15 @@ None
 
 **Link to work:**  
 [Timestamp Microservice](https://topaz-cereal.glitch.me/)  
+
+
+### Day 68 October 28, 2018
+
+**Today's Progress:**  
+- freeCodeCamp's Request Header Parser project
+
+**Thoughts:**  
+I could accomplish the user stories by adding just a few lines so I'm not sure if I'm doing it right...
+
+**Link to work:**  
+[Request Header Parser](https://dynamic-sand.glitch.me/)  
