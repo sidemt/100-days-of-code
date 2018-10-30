@@ -1073,6 +1073,7 @@ None
 
 **Link to work:**  
 [Timestamp Microservice](https://topaz-cereal.glitch.me/)  
+[Timestamp Microservice: Code](https://glitch.com/edit/#!/topaz-cereal)  
 
 
 ### Day 68 October 28, 2018
@@ -1085,3 +1086,16 @@ I could accomplish the user stories by adding just a few lines so I'm not sure i
 
 **Link to work:**  
 [Request Header Parser](https://dynamic-sand.glitch.me/)  
+[Request Header Parser: Code](https://glitch.com/edit/#!/dynamic-sand)  
+
+
+### Day 69 October 30, 2018
+
+**Today's Progress:**  
+- Revision on Timestamp Microservice project & Request Header Parser project
+
+**Thoughts:**  
+Compared my code and the example code and reviewed on what I thought I didn't understand clearly (where to write the code (which was server.js), callbacks and error handling). This video https://youtu.be/QnLBGxtteV8 helped me.
+
+**Link to work:**  
+None  
