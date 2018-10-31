@@ -1099,3 +1099,29 @@ Compared my code and the example code and reviewed on what I thought I didn't un
 
 **Link to work:**  
 None  
+
+
+### Day 70 October 31, 2018
+
+**Today's Progress:**  
+- URL Shortener Microservice project at freeCodeCamp
+  - Receive the URL posted from the form
+  - Validate its format
+  - Connect to the DB on mLab
+
+**Thoughts:**  
+I used 'url-regex' library to check if the URL is in a valid format, but it can't be used to check if the URL begins with `http(s)://` (it accepts URL without `http(s)://` if it begins with `www`). So I added a regex to check that part. 
+
+```
+function isValidUrl(url) {
+  // 'url-regex' cannot check if the URL begins with 'http(s)://'
+  const httpRegex = /^https?\:\/\//i;
+  // Check if the URL begins with 'http(s)://' AND is in a valid URL format checked with 'url-regex'
+  return httpRegex.test(url) && urlRegex({exact: true, strict: true}).test(url);
+};
+```
+
+Useful link: regex checker - [RegExr](https://regexr.com/)
+
+**Link to work:**  
+[URL Shortener Microservice: Code](https://glitch.com/edit/#!/groovy-hydrofoil)  
