@@ -1125,3 +1125,19 @@ Useful link: regex checker - [RegExr](https://regexr.com/)
 
 **Link to work:**  
 [URL Shortener Microservice: Code](https://glitch.com/edit/#!/groovy-hydrofoil)  
+
+
+### Day 71 November 1, 2018
+
+**Today's Progress:**  
+- Completed URL Shortener Microservice project at freeCodeCamp
+
+**Thoughts:**  
+It took me so long to figure out the response from mLab DB was not an object `{ original: "www.google.com" }` but an object in an array `[{ original: "https://www.freecodecamp.com" }]`  
+I was trying to retrieve the original URL value by `result.original` or `result['original']` but kept getting `undefined` . I needed to do `result[0]['original']`
+
+But thinking about callback was fun. It's difficult, but fun.  
+
+**Link to work:**  
+[URL Shortener Microservice](https://groovy-hydrofoil.glitch.me/)  
+[URL Shortener Microservice: Code](https://glitch.com/edit/#!/groovy-hydrofoil)  
