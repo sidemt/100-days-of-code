@@ -1141,3 +1141,19 @@ But thinking about callback was fun. It's difficult, but fun.
 **Link to work:**  
 [URL Shortener Microservice](https://groovy-hydrofoil.glitch.me/)  
 [URL Shortener Microservice: Code](https://glitch.com/edit/#!/groovy-hydrofoil)  
+
+
+### Day 72 November 2, 2018
+
+**Today's Progress:**  
+- Review the URL Shortener Microservice project
+- Start working on Exercise Tracker
+
+**Thoughts:**  
+Reviewed the URL Shortener project by comparing my code to the example code.  
+I learned that I can separate the code into modules, just like we do in Ruby on Rails projects.
+
+Then started working on the next project, Exercise Tracker.
+
+**Link to work:**  
+[Exercise Tracker: Code](https://glitch.com/edit/#!/metal-enquiry)  
