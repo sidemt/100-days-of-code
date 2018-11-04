@@ -1157,3 +1157,16 @@ Then started working on the next project, Exercise Tracker.
 
 **Link to work:**  
 [Exercise Tracker: Code](https://glitch.com/edit/#!/metal-enquiry)  
+
+
+### Day 73 November 4, 2018
+
+**Today's Progress:**  
+- Exercise Tracker
+  - Create user
+
+**Thoughts:**  
+I couldn't work on my personal project yesterday. Today I continued the Exercise Tracker project. Implemented the create user function.
+
+**Link to work:**  
+[Exercise Tracker: Code](https://glitch.com/edit/#!/metal-enquiry)  
