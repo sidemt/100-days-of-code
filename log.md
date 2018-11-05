@@ -1170,3 +1170,17 @@ I couldn't work on my personal project yesterday. Today I continued the Exercise
 
 **Link to work:**  
 [Exercise Tracker: Code](https://glitch.com/edit/#!/metal-enquiry)  
+
+
+### Day 74 November 5, 2018
+
+**Today's Progress:**  
+- Exercise Tracker
+  - Retrieve all users
+
+**Thoughts:**  
+Exercise Tracker project. Created a function to get all users.  
+I accidentally had an unnecessary field indexed as unique (I'm not sure when I did it) and was getting an error on save. I could check and fix that problem on "Indexes" page on mLab.
+
+**Link to work:**  
+[Exercise Tracker: Code](https://glitch.com/edit/#!/metal-enquiry)  
