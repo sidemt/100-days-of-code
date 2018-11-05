@@ -1184,3 +1184,22 @@ I accidentally had an unnecessary field indexed as unique (I'm not sure when I d
 
 **Link to work:**  
 [Exercise Tracker: Code](https://glitch.com/edit/#!/metal-enquiry)  
+
+
+### Day 75 November 6, 2018
+
+**Today's Progress:**  
+- Exercise Tracker
+  - Add exercise log
+
+**Thoughts:**  
+Completed user story 3: add an exercise log.  
+
+Today I learned:
+- When I want to export multiple modules from a file I need to use `exports.propertyName` instead of `module.exports` 
+- Validation for subdocument is not so simple. It seems when I do `findOneAndUpdate` the validation does not work. If I do `find` and `save` separately it worked.
+
+Now I have done 3/4 of the challenge. 25 more days to go!
+
+**Link to work:**  
+[Exercise Tracker: Code](https://glitch.com/edit/#!/metal-enquiry)  
