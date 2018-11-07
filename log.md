@@ -1217,3 +1217,19 @@ This was what I got stuck on Day 71!
 
 **Link to work:**  
 [Exercise Tracker: Code](https://glitch.com/edit/#!/metal-enquiry)  
+
+
+### Day 77 November 8, 2018
+
+**Today's Progress:**  
+- Exercise Tracker
+  - Finished building getLogs function
+  - Add validations to user input values
+  - Modify CSS
+
+**Thoughts:**  
+Completed #freeCodeCamp 's Exercise Tracker project! One more project to get the Apis And Microservices Certification!
+
+**Link to work:**  
+[Exercise Tracker](https://metal-enquiry.glitch.me/)  
+[Exercise Tracker: Code](https://glitch.com/edit/#!/metal-enquiry)  
