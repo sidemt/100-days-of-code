@@ -1203,3 +1203,17 @@ Now I have done 3/4 of the challenge. 25 more days to go!
 
 **Link to work:**  
 [Exercise Tracker: Code](https://glitch.com/edit/#!/metal-enquiry)  
+
+
+### Day 76 November 7, 2018
+
+**Today's Progress:**  
+- Exercise Tracker
+  - Started building getLogs function
+
+**Thoughts:**  
+I realized that `Model.find()` in mongoose returns an array of objects `[{key: value}]` (even if there is only 1 object) but `Model.findOne()` returns an object `{key: value}`  
+This was what I got stuck on Day 71!
+
+**Link to work:**  
+[Exercise Tracker: Code](https://glitch.com/edit/#!/metal-enquiry)  
