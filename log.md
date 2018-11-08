@@ -1233,3 +1233,17 @@ Completed #freeCodeCamp 's Exercise Tracker project! One more project to get the
 **Link to work:**  
 [Exercise Tracker](https://metal-enquiry.glitch.me/)  
 [Exercise Tracker: Code](https://glitch.com/edit/#!/metal-enquiry)  
+
+
+### Day 78 November 9, 2018
+
+**Today's Progress:**  
+- Publish my own Markdown Previewer
+
+**Thoughts:**  
+I customized the Markdown Previewer which I created before for #freeCodeCamp project and made it public. You can preview Markdown and also convert it to HTML.  
+This is the tool I wanted!
+
+**Link to work:**  
+[Markdown to HTML](https://toolsiwant.net/markdown-to-html)  
+[GitHub Repo](https://github.com/sidemt/markdown-to-html)  
