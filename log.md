@@ -1247,3 +1247,46 @@ This is the tool I wanted!
 **Link to work:**  
 [Markdown to HTML](https://toolsiwant.net/markdown-to-html)  
 [GitHub Repo](https://github.com/sidemt/markdown-to-html)  
+
+
+### Day 78 November 9, 2018
+
+**Today's Progress:**  
+- Publish my own Markdown Previewer
+
+**Thoughts:**  
+I customized the Markdown Previewer which I created before for #freeCodeCamp project and made it public. You can preview Markdown and also convert it to HTML.  
+This is the tool I wanted!
+
+**Link to work:**  
+[Markdown to HTML](https://toolsiwant.net/markdown-to-html)  
+[GitHub Repo](https://github.com/sidemt/markdown-to-html)  
+
+
+### Day 79 November 10, 2018
+
+**Today's Progress:**  
+- Updated my portfolio site
+- Maintained Ruby on Rails projects
+
+**Thoughts:**  
+Updated my portfolio.  
+Also, some of my Ruby on Rails projects needed updates of gems so I worked on it.
+
+**Link to work:**  
+[Portfolio](https://www.charonworks.com)  
+[GitHub: On The Day](https://github.com/sidemt/on_the_day)  
+[GitHub: Clear Cache Test App](https://github.com/sidemt/image_cache_test)  
+
+
+### Day 80 November 10, 2018
+
+**Today's Progress:**  
+- File Metadata Microservice
+
+**Thoughts:**  
+Completed freeCodeCamp's File Metadata Microservice project and earned APIs and Microservices certification!
+
+**Link to work:**  
+[File Metadata Microservice](https://emerald-net.glitch.me/)  
+[GitHub Repo](https://github.com/sidemt/boilerplate-project-filemetadata)  
