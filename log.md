@@ -1304,3 +1304,16 @@ But I'm having difficulty signing in on the local environment so I haven't been 
 
 **Link to work:**  
 [Add GitLab field to Profile · Issue #1080 · thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to/issues/1080)  
+
+
+### Day 82 November 12, 2018
+
+**Today's Progress:**  
+- Improve [Pomodoro Clock](https://github.com/sidemt/pomodoro-clock)
+- Try creating events via Google calendar API at the end of each Pomodoro session
+
+**Thoughts:**  
+I want it to automatically add events to Google calendar so that I can see how much I work I have done. Although the code is a complete mess I made the calendar API working.
+
+**Link to work:**  
+[sidemt/pomcal](https://github.com/sidemt/pomcal)  
