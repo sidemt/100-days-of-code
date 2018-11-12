@@ -1290,3 +1290,17 @@ Completed freeCodeCamp's File Metadata Microservice project and earned APIs and 
 **Link to work:**  
 [File Metadata Microservice](https://emerald-net.glitch.me/)  
 [GitHub Repo](https://github.com/sidemt/boilerplate-project-filemetadata)  
+
+
+### Day 81 November 11, 2018
+
+**Today's Progress:**  
+- Set up local environment for dev.to
+- Work on an issue in dev.to repo: Add GitLab field to Profile
+
+**Thoughts:**  
+The issue was to add a field for GitLab URL to user profile. There already are similar fields to this so I could find out what to do by looking into them.  
+But I'm having difficulty signing in on the local environment so I haven't been able to check the behavior yet.
+
+**Link to work:**  
+[Add GitLab field to Profile · Issue #1080 · thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to/issues/1080)  
