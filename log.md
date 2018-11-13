@@ -1317,3 +1317,17 @@ I want it to automatically add events to Google calendar so that I can see how m
 
 **Link to work:**  
 [sidemt/pomcal](https://github.com/sidemt/pomcal)  
+
+
+### Day 83 November 13, 2018
+
+**Today's Progress:**  
+- Try to solve the problem on signing in to local environment of dev.to
+
+**Thoughts:**  
+Not much progress today. Still trying to sign in on the local environment of #dev.to. Asking for help on the issue ticket.  
+
+I learned `-y` option of `apt-get install` means answering "yes" to all the questions during the installation.
+
+**Link to work:**  
+[Add GitLab field to Profile · Issue #1080 · thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to/issues/1080)  
