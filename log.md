@@ -1331,3 +1331,37 @@ I learned `-y` option of `apt-get install` means answering "yes" to all the ques
 
 **Link to work:**  
 [Add GitLab field to Profile · Issue #1080 · thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to/issues/1080)  
+
+
+### Day 84 November 14, 2018
+
+**Today's Progress:**  
+- Solved the problem on signing in to the local environment of dev.to
+- Add `gitlab_url` to `permitted_attributes` in `policy`
+
+**Thoughts:**  
+Finally, I could sign in. It looks like restarting the spring server worked.  
+
+But by manually checking the behavior I found out that the input to the new field was not saved to DB. Validation was not triggered either.
+
+I first thought I might have done `db:migrate` wrong way, but it was because I hadn't added the new field to `permitted_attributes` in `policy` file. I was looking at the files under controllers but the permission configurations were under policy folder.
+
+Now I have everything working, but, the linter which runs automatically on commit started failing and it doesn't let me commit. (It was working on Day 81) Investigating...
+
+**Link to work:**  
+[Add GitLab field to Profile · Issue #1080 · thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to/issues/1080)  
+
+
+### Day 85 November 15, 2018
+
+**Today's Progress:**  
+- Clean-installed the dev environment
+- Made my first PR to open-source repo!
+
+**Thoughts:**  
+I couldn't solve the Ruby version mismatch error which prevents me from making commits, so I reset the WSL and clean-installed the ruby environment again.  
+It resolved the error and FINALLY I made my first code PR to an open-source project!!  
+
+**Link to work:**  
+[Add GitLab field to Profile · Issue #1080 · thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to/issues/1080)  
+[Add GitLab URL field to user profile by sidemt · Pull Request #1121 · thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to/pull/1121)  
