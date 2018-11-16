@@ -1365,3 +1365,18 @@ It resolved the error and FINALLY I made my first code PR to an open-source proj
 **Link to work:**  
 [Add GitLab field to Profile · Issue #1080 · thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to/issues/1080)  
 [Add GitLab URL field to user profile by sidemt · Pull Request #1121 · thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to/pull/1121)  
+
+### Day 86 November 16, 2018
+
+**Today's Progress:**  
+- My first PR was successfully merged into dev.to
+- Wrote a changelog post on dev.to
+- Wrote a blog post about it
+
+**Thoughts:**  
+My first PR was successfully merged into (dev.to repo)[https://github.com/thepracticaldev/dev.to/]. I also wrote a changelog, which was my first post on dev.to.  
+It was such a great experience. It could not have been made without kind support from the core members and nice welcoming community. Huge thanks to dev.to!  
+
+**Link to work:**  
+[Changelog: Add GitLab link to your profile](https://dev.to/siideemt/changelog-add-gitlab-link-to-your-profile-3fn4)  
+[Blog: はじめてのぷるりく @ dev.to](https://ontheneworbit.blogspot.com/2018/11/devto.html)  
