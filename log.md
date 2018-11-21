@@ -1374,9 +1374,85 @@ It resolved the error and FINALLY I made my first code PR to an open-source proj
 - Wrote a blog post about it
 
 **Thoughts:**  
-My first PR was successfully merged into (dev.to repo)[https://github.com/thepracticaldev/dev.to/]. I also wrote a changelog, which was my first post on dev.to.  
+My first PR was successfully merged into [dev.to repo](https://github.com/thepracticaldev/dev.to/). I also wrote a changelog, which was my first post on dev.to.  
 It was such a great experience. It could not have been made without kind support from the core members and nice welcoming community. Huge thanks to dev.to!  
 
 **Link to work:**  
 [Changelog: Add GitLab link to your profile](https://dev.to/siideemt/changelog-add-gitlab-link-to-your-profile-3fn4)  
 [Blog: はじめてのぷるりく @ dev.to](https://ontheneworbit.blogspot.com/2018/11/devto.html)  
+
+
+### Day 87 November 17, 2018
+
+**Today's Progress:**  
+- Start researching how to use Google Calendar API on a public website
+- Wrote a post on dev.to about my first PR
+
+**Thoughts:**  
+I want a pomodoro timer which can automatically log the time on Google Calendar. It is working on my local but I can't find out how to securely store the API key and Client ID on a public server. Researching.
+
+Also, I translated my blog post and posted it on dev.to. I'm grateful about this experience so I wanted to post it there.
+
+**Link to work:**  
+[sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
+[Post on dev.to: My first PR was merged into dev.to!](https://dev.to/siideemt/my-first-pr-was-merged-into-devto-2fd4)  
+
+
+### Day 88 November 18, 2018
+
+**Today's Progress:**  
+- Researching how to use Google Calendar API on a public website
+
+**Thoughts:**  
+Researching how to publicly deploy a web app which uses Google Calendar API. But I'm confused. The document says it only works in the `<script>` tag on a html file. I'm afraid doing so discloses the API key and Cliend ID. Is it secure?
+
+**Link to work:**  
+[sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
+
+
+### Day 89 November 19, 2018
+
+**Today's Progress:**  
+- Researching how to use Google Calendar API on a public website
+
+**Thoughts:**  
+I got a reply to my tweet and it seems OK to disclose the API key and Client ID of Google Calendar API, if it is restricted properly on the developer console. I was trying to hide the key and was trying to use Glitch or Firebase to store the key securely. (Such as using environment variables but didn't work as I expected)
+
+**Link to work:**  
+[sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
+
+
+### Day 90 November 20, 2018
+
+**Today's Progress:**  
+- Google Calendar API, start over from the sample code
+
+**Thoughts:**  
+The code I had on my local was too messy and I couldn't understand how to organize it so I set up the 'Getting Started' sample again to understand what I need and what I don't need in order to get the API work.
+
+**Link to work:**  
+[sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
+
+
+### Day 91 November 21, 2018
+
+**Today's Progress:**  
+- Deployed Pom-Cal, the pomodoro timer, as Day 1
+
+**Thoughts:**  
+I coded almost all day and deployed the Pomodoro timer! There are many things I want to improve but it at least has minimum functions for the first deployment.
+- Add a log (event) to Google Calendar when a Session if completed
+- Play a start sound and end sound (I wanted both)
+
+Things I want to add:
+- Sound ON/OFF
+- Allow users to modify the event summary (task name or something?)
+- Allow users to choose which calendar to add the logs
+- Multi language (now it's all on the same page)
+- Progress bar to show the remaining time
+
+Now there are 9 more days to go!
+
+**Link to work:**  
+[Pom-Cal](https://toolsiwant.net/pom-cal/)  
+[sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
