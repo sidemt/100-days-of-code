@@ -1456,3 +1456,32 @@ Now there are 9 more days to go!
 **Link to work:**  
 [Pom-Cal](https://toolsiwant.net/pom-cal/)  
 [sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
+
+
+### Day 92 November 22, 2018
+
+**Today's Progress:**  
+- Update my portfolio
+
+**Thoughts:**  
+Added my recent works to my portfolio. 1時間でやると決めて1時間でやりました。
+
+**Link to work:**  
+[Portfolio](https://www.charonworks.com)  
+
+
+### Day 93 November 23, 2018
+
+**Today's Progress:**  
+- Improvement of Pom-Cal
+  - Created separate pages for English/Japanese
+  - Added sound ON/OFF setting
+
+**Thoughts:**  
+I'm not sure what is the best way to implement multi language pages. I did a little research and just created separate pages.
+
+I'm using my own pomodoro timer while I'm coding and I like it!
+
+**Link to work:**  
+[Pom-Cal](https://toolsiwant.net/pom-cal/)  
+[sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
