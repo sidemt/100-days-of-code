@@ -1485,3 +1485,17 @@ I'm using my own pomodoro timer while I'm coding and I like it!
 **Link to work:**  
 [Pom-Cal](https://toolsiwant.net/pom-cal/)  
 [sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
+
+
+### Day 94 November 24, 2018
+
+**Today's Progress:**  
+- Improvement of Pom-Cal
+  - Add function to set event name and event description using user input
+
+**Thoughts:**  
+I'm thinking it may be better show the current value for event name/descriptioin. Other parts are almost done.
+
+**Link to work:**  
+[Pom-Cal](https://toolsiwant.net/pom-cal/)  
+[sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
