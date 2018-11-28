@@ -1499,3 +1499,48 @@ I'm thinking it may be better show the current value for event name/descriptioin
 **Link to work:**  
 [Pom-Cal](https://toolsiwant.net/pom-cal/)  
 [sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
+
+
+### Day 95 November 25, 2018
+
+**Today's Progress:**  
+- Improvement on the event name/description fields to show the current value
+
+**Thoughts:**  
+Changed the input fields to use React so that it can show the current value for event name/description. Need improvement on design.
+
+**Link to work:**  
+[Pom-Cal](https://toolsiwant.net/pom-cal/)  
+[sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
+
+
+### Day 96 November 26, 2018
+
+**Today's Progress:**  
+- Improvement on the design of the input form
+
+**Thoughts:**  
+Added some style to the form. It is difficult to keep it simple and easy to understand while adding new features.
+
+**Link to work:**  
+[Pom-Cal](https://toolsiwant.net/pom-cal/)  
+[sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
+
+
+### Day 97 November 27, 2018
+
+**Today's Progress:**  
+- Small improvements on design
+  - Add hover effect on toggle switch
+  - Changed what to show when use is not signed in
+  - Changed button, label, placeholder text of the form
+
+**Thoughts:**  
+Took a day off from the challenge due to some work stuff, and today made some improvements on my pomodoro timer. Slightly changed the design and descriptions, button texts etc.  
+Learned that React DOM sanitizes embedded user input values in JSX by default. Smart!
+
+Now I'm having difficulty in writing this log every day... 3 more days to go!
+
+**Link to work:**  
+[Pom-Cal](https://toolsiwant.net/pom-cal/)  
+[sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
