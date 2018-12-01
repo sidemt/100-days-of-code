@@ -1527,7 +1527,7 @@ Added some style to the form. It is difficult to keep it simple and easy to unde
 [sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
 
 
-### Day 97 November 27, 2018
+### Day 97 November 28, 2018
 
 **Today's Progress:**  
 - Small improvements on design
@@ -1540,6 +1540,32 @@ Took a day off from the challenge due to some work stuff, and today made some im
 Learned that React DOM sanitizes embedded user input values in JSX by default. Smart!
 
 Now I'm having difficulty in writing this log every day... 3 more days to go!
+
+**Link to work:**  
+[Pom-Cal](https://toolsiwant.net/pom-cal/)  
+[sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
+
+
+### Day 98 November 29, 2018
+
+**Today's Progress:**  
+- Retrieved calendar list using Google Calendar API
+
+**Thoughts:**  
+I'm trying to add a select box to choose a calendar in my pomodoro timer. Tried to retrieve calendar list using Google Calendar API and simply printed in console log and `pre` element. 
+
+**Link to work:**  
+[Pom-Cal](https://toolsiwant.net/pom-cal/)  
+[sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
+
+
+### Day 99 November 30, 2018
+
+**Today's Progress:**  
+- Created select box of calendar list
+
+**Thoughts:**  
+Created a function to display the list of available calendars in a select box. I want to finish implementing the select function on Day 100!
 
 **Link to work:**  
 [Pom-Cal](https://toolsiwant.net/pom-cal/)  
