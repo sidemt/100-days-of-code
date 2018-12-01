@@ -1570,3 +1570,19 @@ Created a function to display the list of available calendars in a select box. I
 **Link to work:**  
 [Pom-Cal](https://toolsiwant.net/pom-cal/)  
 [sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
+
+
+### Day 100 December 1, 2018
+
+**Today's Progress:**  
+- Completed the feature of selecting a calendar in Pom-Cal
+
+**Thoughts:**  
+Completed the feature of selecting a calendar to use in Pom-Cal. At first, it had a bug of not updating the options properly after signing in with a different account. I fixed it by changing the timing of calling getCalendarList and adding clearOption function.
+
+So it's Day 100! I made it!  
+It was a good challenge for habit making. For coding, I did made some progress but there are a lot more to learn. I will keep going!
+
+**Link to work:**  
+[Pom-Cal](https://toolsiwant.net/pom-cal/)  
+[sidemt/pomcal: Pomodoro timer integrated with Google Calendar](https://github.com/sidemt/pomcal)  
