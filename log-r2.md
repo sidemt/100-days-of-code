@@ -57,3 +57,15 @@ CSSでGridを設定してたこととかすっかり忘れてた。
 
 **Links to work:**  
 - GitHub: [Create buttons for long break length and cycle counts · sidemt/pomcal@abf9bf6](https://github.com/sidemt/pomcal/commit/abf9bf60e69d99185ff3ba72f1eb2867adb9e0e8)
+
+
+### Day 4: August 26, 2019
+
+**Today's Progress:**  
+- Pom-Cal: Long Break機能の作成
+  - Long Break の処理を作成、完了
+
+Long Break機能作りました。いろんな機能をつけ足しているのでだんだん画面のレイアウトがぐちゃぐちゃになってきた。
+
+**Links to work:**  
+- GitHub: [Add logic for long break · sidemt/pomcal@cd10353](https://github.com/sidemt/pomcal/commit/cd103532ba5af5a3825dc4a3bbd1673b988cf84b)
