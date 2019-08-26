@@ -69,3 +69,19 @@ Long Break機能作りました。いろんな機能をつけ足しているの�
 
 **Links to work:**  
 - GitHub: [Add logic for long break · sidemt/pomcal@cd10353](https://github.com/sidemt/pomcal/commit/cd103532ba5af5a3825dc4a3bbd1673b988cf84b)
+
+
+### Day 5: August 27, 2019
+
+**Today's Progress:**  
+- Pom-Cal: レイアウトの調整
+
+友達に見てもらって、各部品の高さや幅が揃うように調整。（特にモバイルレイアウトがガタガタだった…）  
+PCレイアウトは画面の幅を活かしたかったので3列の配置にしました。
+
+marginを設定していると、 `width: 100%;` にすると思ってる幅よりはみ出してしまったりする。 `width: auto;` にすると直る。難しい…
+
+`grid-template-columns` でGridの幅を指定できる。 `grid-gap` でGridの間隔を指定できる。この辺覚えておきたい。いつも `space-between` とかでむりやりやろうとしてうまくいかないなーと思ってる気がする。
+
+**Links to work:**  
+- GitHub: [Adjust grid width and layout by sidemt · Pull Request #16 · sidemt/pomcal · GitHub](https://github.com/sidemt/pomcal/pull/16/files)
