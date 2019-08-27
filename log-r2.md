@@ -85,3 +85,26 @@ marginを設定していると、 `width: 100%;` にすると思ってる幅よ�
 
 **Links to work:**  
 - GitHub: [Adjust grid width and layout by sidemt · Pull Request #16 · sidemt/pomcal · GitHub](https://github.com/sidemt/pomcal/pull/16/files)
+
+
+### Day 6: August 28, 2019
+
+**Today's Progress:**  
+- Actions on Google: Actions SDK　の使い方を調べる
+  - gactions CLI のインストール
+  - action.json の作成
+
+やっぱりGoogle HomeのActionが作りたいのでやってみよう。  
+以前調べた時はDialogFlowを使う方法を調べてたけど、下記の記事を読んでいてActions SDKの方がひょっとして自分のやりたいことに合ってるのではと思ったのでまずはActions SDKの使い方を調べる。
+
+[Actions On Googleなんちゃって中級編 - Qiita](https://qiita.com/odetarou/items/3bb06de7276fa104236f)
+
+>特にDIalogFlowを使わないでも照明を消すや単純なコマンドであればActions SDKのほうが最初からjsで書けてシンプルではあるので問題はなさそうです。今後はActions SDKのほうが流行るかも？
+
+まずこちらの手順書に沿って進めてみて概要を掴もうとしてます。  
+[Actions SDK Basics  |  Actions on Google  |  Google Developers](https://developers.google.com/actions/sdk/)
+
+今日のところは情報を探すのに色々手間取ってしまったので、とりあえず [Create a Project and Action Package](https://developers.google.com/actions/sdk/create-a-project) の最後、action.jsonを作成したところまで。
+
+**Links to work:**  
+- なし
