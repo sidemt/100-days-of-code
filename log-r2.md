@@ -108,3 +108,21 @@ marginを設定していると、 `width: 100%;` にすると思ってる幅よ�
 
 **Links to work:**  
 - なし
+
+
+### Day 7: August 29, 2019
+
+**Today's Progress:**  
+- Actions on Google: Actions SDK　の使い方を調べる
+  - Deploy Fulfillment の終わりまで
+
+こちらの手順書  
+[Actions SDK Basics  |  Actions on Google  |  Google Developers](https://developers.google.com/actions/sdk/)  
+読み進めたものの、このコードはどこに書けばいいの？とかいくつか分からない点があってこれだけではうまくいかず。
+
+下記のサンプルのREADMEに沿って、まずこのサンプルをテストできる状態にするのがわかりやすかったです。
+
+[actions-on-google/actionssdk-say-number-nodejs: Say a number Actions SDK sample for Actions on Google](https://github.com/actions-on-google/actionssdk-say-number-nodejs)
+
+**Links to work:**  
+- なし
