@@ -126,3 +126,23 @@ marginを設定していると、 `width: 100%;` にすると思ってる幅よ�
 
 **Links to work:**  
 - なし
+
+
+### Day 8: August 30, 2019
+
+**Today's Progress:**  
+- Actions on Google: Actions SDK　の使い方を調べる
+  - Submit Your Action の終わりまで
+  -
+
+いろんなドキュメントを探したり読んだりに終始して、今日はあまり手を動かせず。  
+DBに保存してある情報をActions on Googleから呼び出すことができるのか調べてる。
+
+[ここ](https://techblog.gmo-ap.jp/2018/01/19/%E3%80%8C%E6%9C%AC%E6%B0%97%E3%81%AE%E3%81%97%E3%82%8A%E3%81%A8%E3%82%8A%E3%80%8Dgoogle-home%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/)が参考になりそう？
+
+成果物代わりに、読んだページを一言メモとともにリストアップして [ブログ](https://ontheneworbit.blogspot.com/2019/08/actions-on-googledatabase.html) に残しておきました。
+
+あしたはとにかく何でもいいのでFirebase Realtime Databaseからデータを読み出すということをやってみようかな？
+
+**Links to work:**  
+- Blog: [読んだ物メモ (Actions on Googleの基本とDatabaseとの接続) - On the New Orbit](https://ontheneworbit.blogspot.com/2019/08/actions-on-googledatabase.html)
