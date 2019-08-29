@@ -3,7 +3,8 @@
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log Round 1 (Aug. 22, 2018 - Dec. 1, 2018)](log.md)
+* [Log Round 2 (Aug. 22, 2019 - going on!)](log-r2.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
