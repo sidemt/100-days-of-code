@@ -133,7 +133,6 @@ marginを設定していると、 `width: 100%;` にすると思ってる幅よ�
 **Today's Progress:**  
 - Actions on Google: Actions SDK　の使い方を調べる
   - Submit Your Action の終わりまで
-  -
 
 いろんなドキュメントを探したり読んだりに終始して、今日はあまり手を動かせず。  
 DBに保存してある情報をActions on Googleから呼び出すことができるのか調べてる。
@@ -146,3 +145,19 @@ DBに保存してある情報をActions on Googleから呼び出すことがで�
 
 **Links to work:**  
 - Blog: [読んだ物メモ (Actions on Googleの基本とDatabaseとの接続) - On the New Orbit](https://ontheneworbit.blogspot.com/2019/08/actions-on-googledatabase.html)
+
+
+### Day 9: August 31, 2019
+
+**Today's Progress:**  
+- Actions on Google: Actions SDK　の使い方を調べる
+  - Firebase Realtime Databaseからデータを読み出す
+
+公式で提供されているサンプルにデータベースとの接続を付け加えて、なんとか値を読み出すことができた…！！！
+
+けどPromiseとかCallbackの使い方がよくわかってなくて（昔理解したのに忘れてしまった…）DBからのレスポンスを待ってActions on Googleに渡すということができてない。
+
+とりあえず、 `firebase deploy` したタイミングで読みだした値を格納しておいて後で使うということはできた。まずActions on GoogleとFirebase Realtime Databaseが接続できるということだけは確認できた！
+
+**Links to work:**  
+- GitHub: [Connect to Firebase Realtime Database · sidemt/actionssdk-say-number-nodejs@82f1fce](https://github.com/sidemt/actionssdk-say-number-nodejs/commit/82f1fcede9e0e3a760e671978ad74273e9e80a98)
