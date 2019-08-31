@@ -161,3 +161,19 @@ DBに保存してある情報をActions on Googleから呼び出すことがで�
 
 **Links to work:**  
 - GitHub: [Connect to Firebase Realtime Database · sidemt/actionssdk-say-number-nodejs@82f1fce](https://github.com/sidemt/actionssdk-say-number-nodejs/commit/82f1fcede9e0e3a760e671978ad74273e9e80a98)
+
+
+### Day 10: August 31, 2019
+
+**Today's Progress:**  
+- Actions on Google: Actions SDK　の使い方を調べる
+  - Firebase Realtime Databaseからデータを読み出す
+
+公式で提供されているサンプルにデータベースとの接続を付け加えて、なんとか値を読み出すことができた…！！！
+
+けどPromiseとかCallbackの使い方がよくわかってなくて（昔理解したのに忘れてしまった…）DBからのレスポンスを待ってActions on Googleに渡すということができてない。
+
+とりあえず、 `firebase deploy` したタイミングで読みだした値を格納しておいて後で使うということはできた。まずActions on GoogleとFirebase Realtime Databaseが接続できるということだけは確認できた！
+
+**Links to work:**  
+- GitHub: [Connect to Firebase Realtime Database · sidemt/actionssdk-say-number-nodejs@82f1fce](https://github.com/sidemt/actionssdk-say-number-nodejs/commit/82f1fcede9e0e3a760e671978ad74273e9e80a98)
