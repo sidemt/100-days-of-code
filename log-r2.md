@@ -163,17 +163,36 @@ DBに保存してある情報をActions on Googleから呼び出すことがで�
 - GitHub: [Connect to Firebase Realtime Database · sidemt/actionssdk-say-number-nodejs@82f1fce](https://github.com/sidemt/actionssdk-say-number-nodejs/commit/82f1fcede9e0e3a760e671978ad74273e9e80a98)
 
 
-### Day 10: August 31, 2019
+### Day 10: September 1, 2019
 
 **Today's Progress:**  
 - Actions on Google: Actions SDK　の使い方を調べる
-  - Firebase Realtime Databaseからデータを読み出す
+  - [Daily Updates & Push Notifications Sample](https://github.com/actions-on-google/dialogflow-updates-nodejs) を動かしてみる
 
-公式で提供されているサンプルにデータベースとの接続を付け加えて、なんとか値を読み出すことができた…！！！
+あんなにずっとそもそもデータベースとの接続ができるのかどうか分からなくて調べてたのに、このサンプルであっさりできた…（苦笑）
 
-けどPromiseとかCallbackの使い方がよくわかってなくて（昔理解したのに忘れてしまった…）DBからのレスポンスを待ってActions on Googleに渡すということができてない。
+Dialogflow と Cloud Firestore を組み合わせて使うバージョンのサンプル。  
+良さそう。カテゴリ名で検索してる部分のコードとか参考になりそう。
 
-とりあえず、 `firebase deploy` したタイミングで読みだした値を格納しておいて後で使うということはできた。まずActions on GoogleとFirebase Realtime Databaseが接続できるということだけは確認できた！
+私が作りたいアプリが、ユーザーが入力した名前（しかも芸名・ペンネームとかの一般的な名前っぽくない名前）をキーにして探したいので、難しそうだなと思ってたんだけど、音声入力でうまく聞き取ってもらえなくてもスマホなら最悪キーボード入力はできるよね、とこのサンプルを触ってて気づく。  
+おそらく最初に使ってもらえそうな層はスマホの人達だし。
+
+個人的な夢としてはやっぱり口頭で会話できるものが作りたいけれど！
 
 **Links to work:**  
-- GitHub: [Connect to Firebase Realtime Database · sidemt/actionssdk-say-number-nodejs@82f1fce](https://github.com/sidemt/actionssdk-say-number-nodejs/commit/82f1fcede9e0e3a760e671978ad74273e9e80a98)
+- なし
+
+
+### Day 11: September 2, 2019
+
+**Today's Progress:**  
+- Actions on Google: Actions SDK　の使い方を調べる
+  - [Daily Updates & Push Notifications Sample](https://github.com/actions-on-google/dialogflow-updates-nodejs) のコードを読んでみる
+
+サンプルの index.js のコードを読んで、何をしているコードなのかコメントを細かく入れてみました。  
+JavaScript多少勉強してきたおかげか、だいぶActions on Googleの知識が広く浅く集まってきたおかげか、かなり理解できた。
+
+Fork したリポジトリにブランチ切って公開してみました。↓
+
+**Links to work:**  
+- [Add comments to describe sample code · sidemt/dialogflow-updates-nodejs@32609cc](https://github.com/sidemt/dialogflow-updates-nodejs/commit/32609cc0021a0ed03dac3726ee8c6e13a42e9ea5)
