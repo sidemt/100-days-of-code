@@ -192,7 +192,22 @@ Dialogflow と Cloud Firestore を組み合わせて使うバージョンのサ�
 サンプルの index.js のコードを読んで、何をしているコードなのかコメントを細かく入れてみました。  
 JavaScript多少勉強してきたおかげか、だいぶActions on Googleの知識が広く浅く集まってきたおかげか、かなり理解できた。
 
-Fork したリポジトリにブランチ切って公開してみました。↓
+Fork したリポジトリにブランチ切ってコメント入れたファイルを公開してみました。（下記）
 
 **Links to work:**  
 - [Add comments to describe sample code · sidemt/dialogflow-updates-nodejs@32609cc](https://github.com/sidemt/dialogflow-updates-nodejs/commit/32609cc0021a0ed03dac3726ee8c6e13a42e9ea5)
+
+
+### Day 12: September 3, 2019
+
+**Today's Progress:**  
+- Actions on Google 開発
+  - セットアップ
+
+昨日コードを読んでいたサンプルの真似をしながら、Actions on Googleコンソール、Dialogflow、Cloud Firestore等を設定。  
+Firestoreからデータの取得もできている。
+
+ところが、なぜか `where` メソッドで検索した結果を取得しようとすると、急にレスポンスが返ってこなくなり、エラーになる。調査中。
+
+**Links to work:**  
+- なし（GitLab private repo）
