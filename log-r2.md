@@ -209,5 +209,26 @@ Firestoreからデータの取得もできている。
 
 ところが、なぜか `where` メソッドで検索した結果を取得しようとすると、急にレスポンスが返ってこなくなり、エラーになる。調査中。
 
+Actions on Google、2年前くらいから構想だけはあって調べていて、日本語の音声でお気に入りの声があったので絶対この子で作ろう！と思っていたのですが、バージョンアップされて声が変わってしまっていて悲しい…（笑）  
+たしかに自然さはアップしてるんですが。好みの問題で…
+
 **Links to work:**  
 - なし（GitLab private repo）
+
+
+### Day 13: September 4, 2019
+
+**Today's Progress:**  
+- Actions on Google 開発
+  - ローカル実行環境セットアップ
+
+[この記事](https://medium.com/voiceano/speed-up-actions-on-google-development-workflow-with-local-fulfilment-7de17d5f166f) を参考に、ローカルで Firebase Functions の代わりになるExpressサーバーを実行できるようにセットアップ。
+
+JavaScriptの単純な文法にすら自信がない上にいろんなサービスを連携させて使わないといけないので、自分のコードが悪いのか何かの設定が上手くいってないのかの切り分けを繰り返すのに、少しコードを変える度に毎回 Firebase Functions にデプロイしないといけないのはかなり辛かったので。
+
+セットアップはうまくいきました！DBにもアクセスできることを確認。これで開発がはかどりそう！
+
+機能うまくいかなかったwhere句での絞り込みは同じように上手くいかず…明日からはこれを調査しようと思います。
+
+**Links to work:**  
+- なし
