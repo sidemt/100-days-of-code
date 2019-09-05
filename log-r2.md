@@ -250,3 +250,18 @@ JavaScriptの単純な文法にすら自信がない上にいろんなサービ�
 
 **Links to work:**  
 - なし
+
+
+### Day 15: September 6, 2019
+
+**Today's Progress:**  
+- Actions on Google 開発
+  - search_again intent の追加
+  - 会話内容の改善
+
+今日はちょっと内容軽め。でもフォローアップインテントについてドキュメントを読んだり触ってみたり、合言葉のキーワードが足りない時に訊き返す会話(Prompts)を追加したり（これはDialogflow ConsoleのUIから）
+
+あまり複雑に作り込む前に、次はRailsアプリとFirestoreの接続方法を調べようかと思ってます。
+
+**Links to work:**  
+- なし
