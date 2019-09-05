@@ -232,3 +232,21 @@ JavaScriptの単純な文法にすら自信がない上にいろんなサービ�
 
 **Links to work:**  
 - なし
+
+
+### Day 14: September 5, 2019
+
+**Today's Progress:**  
+- Actions on Google 開発
+  - Cloud Firestore のデータの検索
+
+できましたー！！！
+
+`db.collection(FirestoreNames.NOTICES)` は取得できているのに `db.collection(FirestoreNames.NOTICES).where(FirestoreNames.KEYWORD, '==', keyword)` とするとMalformed responseというエラーが発生してデータが取得できない問題で悩んでいたのですが、Dialogflowのパラメータ名/Firestoreのフィールド名/変数名の `keyword` を全て `keyword0` に変更すると動くようになりました…原因はわかりません…
+
+キーワード2つを組み合わせての検索もできました。
+
+昨日セットアップしたローカルサーバー大活躍！確かにこれはいちいちFirebase Functionsにデプロイするよりずっと速いし手間がかからない。
+
+**Links to work:**  
+- なし
