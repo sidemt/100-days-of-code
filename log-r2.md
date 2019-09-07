@@ -265,3 +265,21 @@ JavaScriptの単純な文法にすら自信がない上にいろんなサービ�
 
 **Links to work:**  
 - なし
+
+
+### Day 16: September 7, 2019
+
+**Today's Progress:**  
+- Pluralsight (Google Cloud Functions: Getting Started)視聴
+- Actions on Google 開発
+  - Rails Appの作成
+  - PostgreSQL の再インストール
+
+Pluralsightが今週末限定の無料キャンペーンをやっていたので、ちょっと手を出してみました。  
+ところが微妙に体調が悪くて思ったように進まず…。全体像を掴むくらいしかできませんでしたが、役には立ったと思います。明日もう少しやりたい。
+
+Actioins on Googleで利用するデータを登録するサイトをRailsで作ろうと思っていて、そのためのRails Appを作り始めました。
+WSL上でPostgreSQLが起動できなくなっていたのですが、結局 `apt-get --purge remove postgresql\*` とやって全部アンインストールして、再インストール。その後Railsアプリの database.yml にポート番号を指定してあげることで `rails db:create` が成功し、 `rails s` できるようになりました。
+
+**Links to work:**  
+- なし
