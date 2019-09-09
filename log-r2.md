@@ -283,3 +283,40 @@ WSL上でPostgreSQLが起動できなくなっていたのですが、結局 `ap
 
 **Links to work:**  
 - なし
+
+
+### Day 17: September 9, 2019
+
+**Today's Progress:**  
+- Pluralsight視聴
+  - Firebase Functions: Fundamentals
+  - Firebase Firestore: Getting Started
+  - Firbase Hosting: Fundamentals
+  - Architecting Scalable Web Applications with Firebase
+
+無料キャンペーン中に…と思って1.5倍速ぐらいで一気に視聴（笑）
+
+動画の講座って私の場合はあまり頭に入ってこなくて、かつ後で振り返りにくくて苦手なのですが、短時間でざっと概要を掴むという使い方には良いなと思いました。
+
+Pluralsight今回初めて使ったのですが、YouTube等で公開されている無料の動画よりは音声や動画のクオリティも高い感じがして内容もまとまっていて、良かったと思います。  
+全文のTranscript（文字起こし）が見れるページがあるのも、後で内容を振り返って探すのに役立ちそう。  
+
+講座のジャンルも豊富で、Firebase関連の講座があったのも予想外だったので良い勉強になりました。
+
+**Links to work:**  
+- なし
+
+
+### Day 18: September 10, 2019
+
+**Today's Progress:**  
+- Actions on Google 開発
+  - Firebase Hostingのセットアップ
+
+Pluralsightで学習した内容から、そもそもRailsアプリにしなくていいのでは…と気が付いてFirebaseHostingで作ってみることに。
+セットアップ。 `firebase deploy` も `firebase serve` も上手くいきました。
+
+Hostingの追加にあたって、既存のプロジェクトに対して `firebase init` して大丈夫なの…？と不安になりましたが、大丈夫でした。その辺ブログに残しておきました。
+
+**Links to work:**  
+- Blog: [既存のFirebase Projectにサービスを追加する - On the New Orbit](https://ontheneworbit.blogspot.com/2019/09/firebase-project.html)
