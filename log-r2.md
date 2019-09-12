@@ -320,3 +320,43 @@ Hostingの追加にあたって、既存のプロジェクトに対して `fireb
 
 **Links to work:**  
 - Blog: [既存のFirebase Projectにサービスを追加する - On the New Orbit](https://ontheneworbit.blogspot.com/2019/09/firebase-project.html)
+
+
+### Day 19: September 11, 2019
+
+**Today's Progress:**  
+- Actions on Google 開発
+  - Firebase Hosting と Cloud Firestore の接続
+
+Cloud Firestore のスタートガイドとそこにあった動画を参考に、Firebase Hosting に置いたウェブページ から Cloud Firestore のデータを操作できることを確認。
+
+HTMLでシンプルな input フォームを設置して、JavaScriptにCloud Firestoreに `docRef.set({ notice: "something" })` みたいなコードを書いて、Submitボタンのonclickで実行されるようにする感じ。とりあえずできました。
+
+参考： [Cloud Firestore を使ってみる  |  Firebase](https://firebase.google.com/docs/firestore/quickstart?hl=ja)
+
+**Links to work:**  
+- なし
+
+
+### Day 20: September 12, 2019
+
+**Today's Progress:**  
+- Actions on Google 開発
+  - Updatesメソッドでドキュメントの一部を更新
+
+昨日 `set` メソッドでFirestoreにデータを登録できることを試した時に、指定したドキュメントにすでに他のフィールドが存在しても、 `set` で渡したフィールドのみの状態に上書きされてしまうことが分かったので、部分的に更新する方法を調査。
+
+`update` メソッド、または `set` メソッドに `{ merge: true }` を付けてあげることで実現できるようでした。
+
+```
+var setWithMerge = cityRef.set({
+    capital: true
+}, { merge: true });
+
+```
+
+明日試すのはここら辺かなあ。  
+[ウェブサイトで Firebase Authentication を使ってみる  |  Firebase](https://firebase.google.com/docs/auth/web/start?hl=ja)
+
+**Links to work:**  
+- なし
