@@ -352,11 +352,56 @@ HTMLでシンプルな input フォームを設置して、JavaScriptにCloud Fi
 var setWithMerge = cityRef.set({
     capital: true
 }, { merge: true });
-
 ```
 
 明日試すのはここら辺かなあ。  
 [ウェブサイトで Firebase Authentication を使ってみる  |  Firebase](https://firebase.google.com/docs/auth/web/start?hl=ja)
+
+**Links to work:**  
+- なし
+
+
+### Day 21: September 13, 2019
+
+**Today's Progress:**  
+- Actions on Google 開発
+  - Firebase Authentication
+
+下記を読んで、
+- [ウェブサイトで Firebase Authentication を使ってみる  |  Firebase](https://firebase.google.com/docs/auth/web/start?hl=ja)
+- [JavaScript で Google ログインを使用して認証する  |  Firebase](https://firebase.google.com/docs/auth/web/google-signin?hl=ja)
+
+ここら辺からコピペして、とりあえず動くことを確認。
+- [quickstart-js/email-password.html at 691a9f51ea1849c76e09f46f1e4c83e82672da7a · firebase/quickstart-js](https://github.com/firebase/quickstart-js/blob/691a9f51ea1849c76e09f46f1e4c83e82672da7a/auth/email-password.html#L95-L107)
+- [quickstart-js/google-redirect.html at 691a9f51ea1849c76e09f46f1e4c83e82672da7a · firebase/quickstart-js](https://github.com/firebase/quickstart-js/blob/691a9f51ea1849c76e09f46f1e4c83e82672da7a/auth/google-redirect.html)
+
+
+ログイン・ログアウト機能が作れるのは分かった。GoogleでもEmailでもできた。
+
+ではそれで取得したトークン？とかをどうやって権限管理に使ったらいいのか分からない…？
+
+**Links to work:**  
+- なし
+
+
+### Day 22: September 14, 2019
+
+**Today's Progress:**  
+- Actions on Google 開発
+  - Firebase Authentication
+
+サンプルを動かしてみる？  
+[FirebaseExtended/firechat: Real-time Chat powered by Firebase](https://github.com/FirebaseExtended/firechat)
+
+と思ったけど、なんか違う感じがする…？firechatというもう出来上がってるプロダクト（Firebase authとかRealtime Databaseとかを使ってる）を導入する方法の説明みたいな気がする。
+
+FirebaseUI というのが用意されていて、ログインUIはこれを使うのがよさそう。  
+https://github.com/firebase/firebaseui-web
+
+YouTubeのFirecastもあった。  
+[Using FirebaseUI Auth, on the Web - Firecasts - YouTube](https://www.youtube.com/watch?v=hb85pYZSJaI)
+
+ちょっとまだ情報を探して迷走中。
 
 **Links to work:**  
 - なし
