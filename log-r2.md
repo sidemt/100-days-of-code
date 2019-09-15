@@ -405,3 +405,25 @@ YouTubeのFirecastもあった。
 
 **Links to work:**  
 - なし
+
+
+### Day 23: September 15, 2019
+
+**Today's Progress:**  
+- CSSでfloatで動かした要素がクリックできない問題
+- Fontawesomeのアイコンを重ねる方法
+
+最近一緒に勉強してくれてるリアル友人のコードでうまくいかないと聞いた所を調査。  
+自分の発想になかったことを調べるきっかけになってとても勉強になった…！  
+そして私CSS苦手なんだなと実感（笑）
+
+クリックできない問題は `z-index` の指定で解決。
+
+見せてもらったページで FontAwesome のアイコンに文字を重ねてかわいいボタンを作っていて、何これどうやってるの…！？と調べた。私にはその発想自体が無かった…！
+
+参考：  
+- [Font Awesomeのファイルアイコンの中にテキストを追加する - Qiita](https://qiita.com/nyu/items/eed05030975bd625911c)
+- [Stacking Icons | Font Awesome](https://fontawesome.com/how-to-use/on-the-web/styling/stacking-icons)
+
+**Links to work:**  
+- なし
