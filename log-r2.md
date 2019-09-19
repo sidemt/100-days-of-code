@@ -427,3 +427,37 @@ YouTubeのFirecastもあった。
 
 **Links to work:**  
 - なし
+
+
+### Day 24: September 16, 2019
+
+**Today's Progress:**  
+- Firebase Auth について勉強
+
+下記の動画を見て、
+
+[Controlling Data Access Using Firebase Auth Custom Claims (Firecasts) - YouTube](https://www.youtube.com/watch?v=3hj_r_N0qMs)  
+[Security Rules! 🔑 | Get to Know Cloud Firestore #6 - YouTube](https://www.youtube.com/watch?v=eW5MdE3ZcAw)
+
+こちらのCodelabに手を付け始めましたが、ちょっと行き詰まってる感。
+
+[Firebase Admin SDK Codelab](https://codelabs.developers.google.com/codelabs/firebase-admin/#0)
+
+CodelabのサンプルがNode.js のバージョンが古い物にしか対応していなかったので、nvmでバージョンを切り替えるのに挑戦。それはうまくいきました。
+
+**Links to work:**  
+- なし
+
+
+### Day 25-27: September 17-19, 2019
+
+**Today's Progress:**  
+- 既存サイトのURL移転
+
+昨年作って公開したサイトのドメインの更新時期が迫ってきたのですが、対してアクセスもないので他で使っているドメインに統合しようと移転作業。
+まるっと複製して、301リダイレクトを設定して、Googleアドレス変更申請。
+
+明日からまたGoogle Assistantの作業に戻ろうと思います～。
+
+**Links to work:**  
+- 自作ツール: https://tools.charonworks.com/
