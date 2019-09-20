@@ -461,3 +461,29 @@ CodelabのサンプルがNode.js のバージョンが古い物にしか対応�
 
 **Links to work:**  
 - 自作ツール: https://tools.charonworks.com/
+
+
+### Day 28: September 20, 2019
+
+**Today's Progress:**  
+- Codelabの続き
+
+[Firebase Admin SDK Codelab](https://codelabs.developers.google.com/codelabs/firebase-admin/#0) の続きを進めていたのですが、 `npm run dev` でどうもNode.jsにうまくPathが通ってないような感じのエラーが発生する。
+
+元々開発に手を付けていたバージョンでは `firebase serve` もうまく動いていたので、このエラーの解消の調査は今学習したいことから逸れていきそうだな…と思ったので、ドキュメントを読んで進める方向に方向転換しようと思います。なかなか迷走している…
+
+**Links to work:**  
+- なし
+
+
+### Day 29: September 21, 2019
+
+**Today's Progress:**  
+- [Cloud Firestore セキュリティ ルールを使ってみる  |  Firebase](https://firebase.google.com/docs/firestore/security/get-started)
+
+こちらの動画 [Security Rules! 🔑 | Get to Know Cloud Firestore #6 - YouTube](https://www.youtube.com/watch?v=eW5MdE3ZcAw) の内容をおさらい。だいぶ理解できてきた。
+
+Cloud Firestoreの firestore.rules には、認証情報によるルールだけでなく、リクエストのデータの内容・DBにあるデータの内容を参照してバリデーションのようなルールも設定できるとか。使い方少しずつイメージできてきた気がします。
+
+**Links to work:**  
+- Blog: [Firebase Auth、Cloud Firestoreのセキュリティルールについてメモ - On the New Orbit](https://ontheneworbit.blogspot.com/2019/09/firebase-authcloud-firestore.html)
