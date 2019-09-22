@@ -487,3 +487,21 @@ Cloud Firestoreの firestore.rules には、認証情報によるルールだけ
 
 **Links to work:**  
 - Blog: [Firebase Auth、Cloud Firestoreのセキュリティルールについてメモ - On the New Orbit](https://ontheneworbit.blogspot.com/2019/09/firebase-authcloud-firestore.html)
+
+
+### Day 30: September 22, 2019
+
+**Today's Progress:**  
+- 自分のプロジェクトにFirebase Authを使用したルールを設定してみる
+
+Firebase CLI を使用してルールをデプロイしたり、JavaScriptのコード内で `firebase.auth().currentUser.uid` でuidを取得してその値をCloud Firestore のDBに保存したりするやり方を試しました。
+
+参考にしたドキュメント
+- [ルールのデプロイ > Firebase CLI を使用する](https://firebase.google.com/docs/firestore/security/get-started#use_the_firebase_cli) 
+- [Firebase のユーザーを管理する](https://firebase.google.com/docs/auth/web/manage-users?hl=ja#get_the_currently_signed-in_user)
+
+Visual Studio Code に Firestore の .rules ファイル用の拡張機能があるのを発見。  
+- [Firestore Rules - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ChFlick.firecode)
+
+**Links to work:**  
+- [Set up Firebase auth · sidemt/kokuchitant@5081251](https://github.com/sidemt/kokuchitant/commit/5081251c0d7f06922457d93b444414080424cff3) (Private Repo)
