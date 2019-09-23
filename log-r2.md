@@ -505,3 +505,22 @@ Visual Studio Code に Firestore の .rules ファイル用の拡張機能があ
 
 **Links to work:**  
 - [Set up Firebase auth · sidemt/kokuchitant@5081251](https://github.com/sidemt/kokuchitant/commit/5081251c0d7f06922457d93b444414080424cff3) (Private Repo)
+
+
+### Day 31: September 23, 2019
+
+**Today's Progress:**  
+- Hostingにデプロイして同じ操作ができることを確認
+- ログイン中のユーザーの告知を取得する
+
+Loadボタンを押したタイミングで、ログインしているユーザーのuidを `firebase.auth().currentUser;` で取得し、それを元にクエリを作成して読み出すことに成功。
+
+document ID を指定すると1件の `.get()` でdocumentだけが取得されるけど、 collectionに対してクエリを実行すると `.get()` で得られるのが複数件のdocumentの集合なのでforEachで回して読み取らないといけないのが、前にも同じところで躓いた気がする。
+
+参考  
+[コレクションから複数のドキュメントを取得する](https://firebase.google.com/docs/firestore/query-data/get-data?hl=ja#get_multiple_documents_from_a_collection)
+
+JavaScript難しい…何度理解したと思っても少し書かない期間が空くと全部忘れてしまう…。
+
+**Links to work:**  
+- なし
