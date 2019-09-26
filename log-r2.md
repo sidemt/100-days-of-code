@@ -543,3 +543,25 @@ JavaScript難しい…何度理解したと思っても少し書かない期間�
 
 **Links to work:**  
 - なし
+
+
+### Day 33: September 25, 2019
+
+**Today's Progress:**  
+- Firebaseのプロジェクトを新しく立て直す(完了)
+
+元々動いていた機能を一通りコピーできました。
+
+対応内容↓
+
+- Dialogflowプロジェクトの作り直し、Restore
+- Actions API の認証情報（サービスアカウントキー）の再設定
+- Firebase Functions のデプロイ
+- Function URLをDialogflowに設定し直し
+- Firebase構成情報の設定し直し
+- Firebase Authenticationを有効化
+
+あとは Function の Region も設定しなおさなければ。
+
+**Links to work:**  
+- なし
