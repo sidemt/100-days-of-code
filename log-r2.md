@@ -565,3 +565,15 @@ JavaScript難しい…何度理解したと思っても少し書かない期間�
 
 **Links to work:**  
 - なし
+
+
+### Day 34: September 26, 2019
+
+**Today's Progress:**  
+- Firebase FunctionのRegionの変更
+
+変更できました。今日は仕事関係を結構がんばってしまってあまりこちらは進められずという感じですが…。
+結構会話の応答が遅い感じするので、Region変えたら速くなるかなとちょっと期待していたのですが、体感で分かるほどは速くならなかったです（笑）
+
+**Links to work:**  
+- [Change project by sidemt · Pull Request #3 · sidemt/kokuchitant](https://github.com/sidemt/kokuchitant/pull/3)
