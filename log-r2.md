@@ -575,5 +575,30 @@ JavaScript難しい…何度理解したと思っても少し書かない期間�
 変更できました。今日は仕事関係を結構がんばってしまってあまりこちらは進められずという感じですが…。
 結構会話の応答が遅い感じするので、Region変えたら速くなるかなとちょっと期待していたのですが、体感で分かるほどは速くならなかったです（笑）
 
+ひとまず新プロジェクトへの移行作業は完了！
+
 **Links to work:**  
 - [Change project by sidemt · Pull Request #3 · sidemt/kokuchitant](https://github.com/sidemt/kokuchitant/pull/3)
+
+
+### Day 35-36: September 27-28, 2019
+
+**Today's Progress:**  
+- `<script>` タグに書いていたコードを `.js` ファイルに分離
+- サインイン後、新しい告知を保存後のタイミングで保存されている情報を画面に表示するようにした
+- ESLintの導入
+
+`<script>` タグでHTMLファイルに直書きすれば動くのに、.jsファイルに分離すると動かない、という状況によく陥るのですが、おそらく `$(document).ready` を入れるべきなのに入れてない、という状況が多いのかなと…。
+
+下記の記事の、
+
+> `</body>` タグの直前にscriptを入れる場合、$(docment).readyは必要ない
+
+という部分で理解できました。
+
+[JavaScript・jQueryの改修・高速化のためのメモ - Qiita](https://qiita.com/redamoon/items/1c38ee93834588e3c4ff#documentready%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B)
+
+またしばらく経つと忘れてしまいそう…！
+
+**Links to work:**  
+- なし
