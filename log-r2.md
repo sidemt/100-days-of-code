@@ -604,7 +604,7 @@ JavaScript難しい…何度理解したと思っても少し書かない期間�
 - なし
 
 
-### Day 36-37: September 29-30, 2019
+### Day 37-38: September 29-30, 2019
 
 **Today's Progress:**  
 - FirebaseUIの導入
