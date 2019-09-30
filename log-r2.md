@@ -602,3 +602,24 @@ JavaScript難しい…何度理解したと思っても少し書かない期間�
 
 **Links to work:**  
 - なし
+
+
+### Day 36-37: September 29-30, 2019
+
+**Today's Progress:**  
+- FirebaseUIの導入
+- ログイン後、他のページに遷移させてみる
+- 他のページでもログイン後の情報を利用してみる
+
+JavaScriptの読み込み順、実行順でとにかく引っかかっているなと思います。  
+ドキュメントを上から順に読んでその通りに並べても動かなくて、どこでinitializeしたインスタンスをどこで使って…というのを意識して読み込み順を整理すると動くようになりました。
+
+ログイン後別のページにリダイレクトさせた際、 `firebase.auth()` の情報はどうやって引き継いだら…？と思ったのですが、普通に別ページにもfirebaseをinitializeするコードを入れて `firebase` が使えるようにすると、引き継ぐことができました。
+
+どこまで引き継がれるかはここら辺で設定できるのかな？  
+[認証状態の永続性](https://firebase.google.com/docs/auth/web/auth-state-persistence?hl=ja)
+
+Google, Twitter, Email+Password でログインフローが動作することを確認。
+
+**Links to work:**  
+- [Create login flow by sidemt · Pull Request #4 · sidemt/kokuchitant](https://github.com/sidemt/kokuchitant/pull/4)
