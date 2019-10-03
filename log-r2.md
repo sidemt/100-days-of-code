@@ -623,3 +623,18 @@ Google, Twitter, Email+Password でログインフローが動作することを
 
 **Links to work:**  
 - [Create login flow by sidemt · Pull Request #4 · sidemt/kokuchitant](https://github.com/sidemt/kokuchitant/pull/4)
+
+
+### Day 39-40: October 1-2, 2019
+
+**Today's Progress:**  
+- Firebase Functions ローカル開発環境の構築方法をブログに
+- nodemon が起動できないエラーの調査
+
+やってみてすごく便利！と思ったのでブログに書こう書こうと思っていた、 Firebase Functions のローカル環境の作り方をブログにまとめました。
+最初に設定したときから1か月くらい経ってしまっていたので、色々バージョンアップしたせいかサーバーが起動できなくなっており…。
+
+結局エラーメッセージからは全然予想しなかった設定で解決しました。だいぶ悩みました…。解決してよかった！
+
+**Links to work:**  
+- Blog: [Actions on Googleで使うFirebase Functionsの開発用ローカルサーバーを作る - On the New Orbit](https://ontheneworbit.blogspot.com/2019/10/actions-on-googlefirebase-functions.html)
